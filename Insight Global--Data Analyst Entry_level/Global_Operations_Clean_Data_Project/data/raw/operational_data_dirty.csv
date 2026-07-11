@@ -1,0 +1,521 @@
+Ticket Number,Employee ID,Employee Name,Department,Location,Country,Priority,Status,Category,Subcategory,Assignment Group,System,Vendor,Created Date,Closed Date,Resolution Code,Comments
+INC100000,EMP1003,Alexander Ramirez,Finance,Seattle,USA,Medium,Resolved,Request,Software,Service Desk,Salesforce,Cisco,2026-02-25,2026-02-28,Reboot,Keep remember development should family contain more.
+INC100001,EMP1010,Aaron Parks,Operations,Atlanta,Canada,High,In Progress,Request,Email,Application Team,Salesforce,Microsoft,2026-05-17,2026-05-19,Resolved,Anything owner anything future short fund dinner.
+INC100002,EMP1000,Stephen Adams,Procurement,Chicago,USA,Critical,In Progress,Change,Email,Security Team,SAP,Dell,2026-06-01,2026-06-07,User Error,Century situation account add our benefit enough.
+INC100003,EMP1014,Joseph Jones,Finance,New York,USA,Medium,Closed,Incident,Hardware,Service Desk,Salesforce,Microsoft,2025-08-10,2025-08-24,Resolved,Its hundred she we.
+INC100004,EMP1037,Vincent Decker,Procurement,Atlanta,USA,Critical,Resolved,Change,Network,Network Team,Oracle,Cisco,2025-11-08,2025-11-22,Resolved,Quickly local vote see carry cold environment.
+INC100005,EMP1051,Kirk Potter,Procurement,Dallas,Mexico,High,In Progress,Change,Network,Application Team,Oracle,Dell,2025-10-17,2025-10-30,Replaced,There system must listen process enough quite.
+INC100006,EMP1006,Savannah Sutton DVM,Operations,Atlanta,Canada,Critical,Closed,Change,Software,Application Team,Salesforce,Dell,2025-09-03,2025-09-04,Resolved,Firm gun air reflect state wait side.
+INC100007,EMP1042,Dr. Ryan Brown,HR,Dallas,Canada,Medium,Closed,Change,Software,Service Desk,Salesforce,IBM,2025-09-21,2025-10-06,Resolved,Throw respond mention his dark.
+INC100008,EMP1024,Joseph Carey,Operations,Seattle,Canada,Medium,Resolved,Problem,Email,Application Team,Salesforce,Cisco,2025-10-17,2025-10-25,User Error,Give end this its old.
+INC100009,EMP1051,Kristen Parker,IT,Chicago,Canada,Low,In Progress,Incident,Hardware,Service Desk,Oracle,IBM,2026-02-20,2026-02-22,Replaced,Cut discover up.
+INC100010,EMP1010,Mike Gordon,Finance,New York,Mexico,Low,Resolved,Request,Software,Network Team,SAP,Cisco,2026-04-26,2026-04-24,Resolved,Congress about item board technology you grow.
+INC100011,EMP1063,Henry Anderson,Finance,Atlanta,Mexico,High,Open,Problem,Email,Network Team,Oracle,Microsoft,2026-01-07,2026-01-12,Configuration,Partner member simple learn general hospital bed.
+INC100012,EMP1071,Connie Bowen,HR,Atlanta,Mexico,Critical,In Progress,Request,Software,Application Team,ServiceNow,Microsoft,2025-08-17,2025-08-25,Reboot,About agree foreign head teacher capital.
+INC100013,EMP1067,Michael Cummings,IT,Seattle,Mexico,Low,Open,Problem,Email,Network Team,Salesforce,Cisco,2026-01-27,2026-01-25,User Error,Loss across trial up.
+INC100014,EMP1039,Brittany Hardin,HR,Chicago,Mexico,Medium,Open,Change,Email,Network Team,Oracle,Microsoft,2026-06-22,2026-07-06,Reboot,Start specific major sort range modern.
+INC100015,EMP1089,Richard Conner,HR,Atlanta,Mexico,Critical,Resolved,Problem,Hardware,Security Team,ServiceNow,Dell,2026-02-10,2026-02-22,User Error,Organization letter thus.
+INC100016,EMP1036,Lori Mckee,Finance,Seattle,Canada,medium,Resolved,Change,Hardware,Security Team,SAP,Cisco,2025-10-10,2025-10-12,Replaced,Plant place operation cup despite thus.
+INC100017,EMP1023,Ashley Hale,Finance,Atlanta,USA,Low,Open,Request,Network,Application Team,ServiceNow,IBM,2025-08-06,2025-08-04,Reboot,Direction old deal rise car reduce catch positive.
+INC100018,EMP1062,Christopher Carter,HR,New York,Canada,High,Closed,Problem,Hardware,Application Team,SAP,Cisco,2026-01-28,2026-01-30,Resolved,Former office war call.
+INC100019,EMP1043,Stephanie Maynard,HR,New York,Mexico,Low,Open,Change,Email,Security Team,Oracle,Dell,2025-12-18,2026-01-02,Reboot,Eight learn production general event itself professional.
+INC100020,EMP1016,Amanda Cantrell,Operations,Chicago,USA,CRITICAL,Closed,Request,Network,Network Team,SAP,Dell,2026-07-03,2026-07-15,User Error,End computer president like.
+INC100021,EMP1015,Dawn Marquez,Operations,Atlanta,USA,High,In Progress,Incident,Hardware,Security Team,SAP,Microsoft,2025-08-12,2025-08-21,Resolved,Cause serious certainly yourself support painting.
+INC100022,EMP1073,Sharon Morales,IT,Seattle,Mexico,HIGH,Open,Problem,Network,Security Team,ServiceNow,Cisco,2026-02-03,2026-02-07,Configuration,Remember detail true meeting everything either inside nearly.
+INC100023,EMP1029,Barbara Li,Procurement,Atlanta,Canada,Critical,Resolved,Incident,Email,Network Team,SAP,Microsoft,2026-04-15,2026-04-30,User Error,None reason possible present risk upon type.
+INC100024,EMP1020,Michael Russell,IT,Dallas,Mexico,Medium,In Progress,Incident,Software,Network Team,Salesforce,Microsoft,2026-07-04,2026-07-05,Configuration,System experience media authority.
+INC100025,EMP1085,Sharon Burton,Sales,Atlanta,Canada,Medium,Open,Request,Hardware,Network Team,Oracle,Cisco,2026-07-07,2026-07-20,Resolved,Nation likely staff owner.
+INC100026,EMP1000,Kimberly Hayes,IT,Seattle,USA,Critical,In Progress,Request,Network,Security Team,SAP,Dell,2026-05-13,2026-05-14,Replaced,Message fast shoulder out part.
+INC100027,EMP1044,Kaitlin Hickman,HR,Dallas,Canada,Low,Closed,Request,Software,Security Team,Oracle,IBM,2025-12-17,2025-12-24,Replaced,Today key dream physical foot drop guy.
+INC100028,EMP1069,Cynthia Morales,HR,Dallas,USA,Low,Open,Change,Network,Service Desk,Oracle,Dell,2025-12-27,2026-01-06,Configuration,Age indeed tell street whose share.
+INC100029,EMP1026,Kevin Wallace,IT,New York,USA,Low,Closed,Incident,Network,Service Desk,Salesforce,Microsoft,2025-12-24,2026-01-04,Resolved,Identify interview either movie.
+INC100030,EMP1034,Alisha Gonzalez,it,Dallas,Canada,High,In Progress,Request,Network,Application Team,Oracle,Microsoft,2026-02-26,2026-03-01,Replaced,Plant stock pick population woman it consumer.
+INC100031,EMP1006,Ashley Williams,Finance,Atlanta,Mexico,Low,Resolved,Change,Network,Network Team,Oracle,Microsoft,2025-12-09,2025-12-11,Resolved,North line business the machine.
+INC100032,EMP1074,Lawrence Martinez,IT,New York,Mexico,Critical,Open,Incident,Hardware,Security Team,ServiceNow,Cisco,2026-01-23,2026-01-24,Reboot,Who share after site film.
+INC100033,EMP1099,Nicole Wells,HR,Seattle,Canada,Low,Open,Incident,Email,Network Team,SAP,Cisco,2026-05-23,2026-05-27,User Error,Family laugh bed quality trouble gas.
+INC100034,EMP1087,Mary Haley,Sales,Seattle,Mexico,Critical,Open,Problem,Network,Service Desk,Salesforce,IBM,2026-02-23,2026-03-06,User Error,Simple south mention city.
+INC100035,EMP1070,Andrew Thomas,Finance,Seattle,Canada,Low,Resolved,Problem,Hardware,Network Team,SAP,IBM,2026-01-19,2026-01-24,Resolved,Make say senior whole.
+INC100036,EMP1049,Robert Peters,Procurement,New York,Canada,Low,Open,Request,Software,Application Team,SAP,Microsoft,2025-12-12,2025-12-23,Resolved,Political bit likely this.
+INC100037,EMP1060,Jessica Morrison,Procurement,New York,USA,Low,Closed,Problem,Network,Application Team,ServiceNow,Dell,2025-12-24,2025-12-26,Replaced,State he human market do cut.
+INC100038,EMP1098,Tara Buck,Operations,Chicago,USA,High,Resolved,Request,Network,Network Team,SAP,IBM,2026-04-09,2026-04-22,Replaced,See too once whole source series well.
+INC100039,EMP1034,Whitney Hoffman,Finance,Dallas,Canada,Critical,Open,Request,Hardware,Security Team,ServiceNow,Dell,2025-11-10,2025-11-18,Resolved,Church civil all friend.
+INC100040,EMP1076,Robin Smith,FIN,Chicago,USA,Low,Open,Request,Software, Service Desk ,SAP,IBM,2025-09-15,2025-09-21,Replaced,Vote amount citizen today attention voice task when.
+INC100041,EMP1042,Steve Blake,IT,Dallas,USA,Medium,Closed,Change,Hardware,Network Team,SAP,Dell,2026-04-19,2026-05-02,Configuration,Character world best pull school.
+INC100042,EMP1021,Veronica Thomas,Procure,Chicago,Mexico,Medium,In Progress,Incident,Hardware,Network Team,Salesforce,Cisco,2025-07-14,2025-07-28,User Error,Even edge investment detail her dream.
+INC100043,EMP1073,Tanya Jenkins,IT,Dallas,Mexico,Critical,Open,Request,Software,Security Team,Salesforce,Cisco,2025-09-09,2025-09-15,Replaced,Security choose include behind focus here.
+INC100044,EMP1043,David Smith,Sales,New York,Canada,Medium,Resolved,Change,Email,Security Team,Oracle,Dell,2025-10-03,2025-10-06,Replaced,This politics interesting movement call.
+INC100045,EMP1099,Justin Lee,IT,Seattle,Canada,Low,Open,Request,Software,Application Team,Oracle,Dell,2026-03-22,2026-03-26,Configuration,Candidate follow late every.
+INC100046,EMP1078,Ronald Hess,Operations,Seattle,Canada,High,Open,Problem,Network,Application Team,Oracle,Dell,2025-09-12,2025-09-24,Configuration,Call discussion might learn Mrs.
+INC100047,,Mariah Douglas,Finance,Chicago,USA,High,Open,Incident,Hardware,Network Team,ServiceNow,Cisco,2026-05-03,2026-05-11,Reboot,Recognize career write side knowledge five determine expect.
+INC100048,EMP1012,William Stewart,Procurement,Atlanta,Mexico,Critical,Open,Change,Email,Security Team,Salesforce,Dell,2025-11-03,2025-11-17,Replaced,Shake us report behind message maybe out.
+INC100049,EMP1038,Jason Cohen,HR,New York,Mexico,Medium,In Progress,Problem,Network,Network Team,Oracle,Microsoft,2025-10-14,2025-10-27,User Error,Control network political rule.
+INC100050,EMP1098,Bradley Beck,Finance,Dallas,Canada,Critical,Open,Request,Email, Service Desk ,Oracle,Dell,2025-08-12,2025-08-15,Resolved,Prepare participant voice morning way choice.
+INC100051,EMP1059,Dalton Gentry,Sales,Seattle,Canada,Medium,Open,Change,Software,Network Team,Oracle,Microsoft,2025-07-13,2025-07-17,Configuration,Son before available population popular.
+INC100052,EMP1051,Amy Wong,Sales,New York,USA,High,Open,Incident,Network,Security Team,Salesforce,Microsoft,2026-01-13,2026-01-18,User Error,Because throw sort finally set happen popular manager.
+INC100053,EMP1008,Helen Duncan,Procurement,Chicago,Canada,High,Resolved,Request,Network,Application Team,Oracle,Dell,2025-09-30,2025-10-11,Replaced,Last himself responsibility produce.
+INC100054,EMP1046,Christopher Henderson,Operations,New York,Canada,High,In Progress,Change,Software,Network Team,Salesforce,IBM,2026-02-24,2026-03-11,Replaced,Election else it.
+INC100055,EMP9999,Jeffrey King,IT,Dallas,Canada,Critical,In Progress,Request,Network,Service Desk,Salesforce,Cisco,2026-01-22,2026-01-27,User Error,Everyone thank traditional up nothing industry bill.
+INC100056,EMP1039,Sara White,IT,New York,USA,Medium,In Progress,Change,Network,Network Team,SAP,IBM,2025-11-24,2025-11-22,Replaced,From focus face service.
+INC100057,EMP1001,Cynthia Moore,Sales,Dallas,Mexico,Critical,In Progress,Problem,Network,Network Team,Oracle,Cisco,2026-05-10,2026-05-16,Reboot,Office tonight military writer some himself.
+INC100058,EMP1049,Tracy Holt,HR,Seattle,Canada,Medium,Resolved,Problem,Software,Service Desk,SAP,Dell,2025-07-11,2025-07-26,Configuration,Teach others much method such risk.
+INC100059,EMP1046,Amy Anderson,HR,New York,USA,Low,In Progress,Change,Network,Service Desk,SAP,Microsoft,2026-03-07,2026-03-19,Reboot,Stop top support fall service where.
+INC100060,EMP1023,Sandra Jones,Finance,Dallas,Mexico,Low,Open,Request,Software,Network Team,ServiceNow,Dell,2025-10-24,2025-11-08,Replaced,Note when of professor.
+INC100061,EMP1040,Edward Contreras,Operation,Atlanta,Mexico,Medium,Closed,Request,Network,Network Team,SAP,Cisco,2026-03-03,2026-03-13,User Error,Phone campaign seat raise.
+INC100062,,James Bennett,Finance,Atlanta,Mexico,High,Closed,Change,Hardware,Service Desk,ServiceNow,Microsoft,2026-04-06,2026-04-08,Configuration,Might back store.
+INC100063,EMP1040,Lynn Guzman,IT,Chicago,Canada,medium,Closed,Change,Software,Application Team,SAP,IBM,2026-04-24,2026-04-27,Resolved,Room person continue down team center.
+INC100064,EMP1038,Michael Carter,Sales,New York,Mexico,High,In Progress,Problem,Software,Service Desk,Oracle,Microsoft,2026-03-19,2026-03-25,Configuration,Call carry represent.
+INC100065,EMP1084,Frank Martin,Sales,Seattle,Canada,Medium,Resolved,Change,Software,Application Team,Salesforce,Cisco,2026-05-03,2026-05-15,User Error,Surface person discussion tree between million stock.
+INC100066,EMP1026,Cynthia Fritz,IT,Seattle,Canada,Critical,In Progress,Problem,Software,Application Team,ServiceNow,Dell,2025-07-21,2025-07-26,Replaced,Support which bar effort.
+INC100067,EMP1089,Ruben Silva,Sales,Seattle,USA,Low,Resolved,Problem,Software,Security Team,Salesforce,Dell,2025-09-24,2025-10-05,User Error,Himself ever mention here life.
+INC100068,EMP1070,Nicole Hayes,HR,Dallas,Mexico,Critical,Closed,Change,Email,Security Team,Oracle,Cisco,2025-08-18,2025-08-22,Replaced,Public catch contain heavy grow position responsibility industry.
+INC100069,EMP1036,Vanessa Thompson,HR,Atlanta,Mexico,Medium,Closed,Request,Hardware,Application Team,ServiceNow,Cisco,2026-03-12,2026-03-22,Configuration,Institution bring across simple for cold public.
+INC100070,EMP1097,Amanda Vance,Operations,Seattle,Mexico,Medium,Open,Request,Hardware,Service Desk,ServiceNow,Dell,2025-12-02,2025-12-14,User Error,Yourself financial sense type water.
+INC100071,EMP1097,Troy Gonzales,Finance,Chicago,USA,Medium,In Progress,Change,Software, Application Team ,Oracle,Microsoft,2026-04-07,2026-04-21,Reboot,City seven majority home chance great.
+INC100072,EMP1041,Anne Diaz,IT,Chicago,Mexico,Medium,Resolved,Problem,Email,Application Team,ServiceNow,IBM,2026-03-09,2026-03-20,Replaced,Tv thus effect cultural.
+INC100073,EMP1059,Jose Miller,Procurement,Atlanta,Canada,Critical,Open,Incident,Software,Security Team,ServiceNow,Dell,2026-03-03,2026-03-04,Resolved,Summer prepare future area most.
+INC100074,EMP1079,Alexis Mathis,Sales,Dallas,Mexico,Low,In Progress,Problem,Hardware,Security Team,Oracle,Dell,2025-10-02,2025-10-08,Configuration,Name sport pressure boy less tree land.
+INC100075,EMP1038,Tiffany Kim,Operations,New York,USA,High,Closed,Incident,Email,Network Team,Oracle,IBM,2026-04-17,2026-04-18,User Error,Fund professor player family.
+INC100076,EMP1096,Christina Williams,IT,Atlanta,USA,Low,Open,Problem,Software,Service Desk,Oracle,Microsoft,2026-06-23,2026-07-02,Reboot,Its word decide entire find edge despite party.
+INC100077,EMP1046,Taylor Harper,Finance,Atlanta,USA,CRITICAL,Closed,Problem,Hardware,Network Team,Oracle,Microsoft,2026-03-22,2026-03-29,Reboot,Right choice game.
+INC100078,EMP1004,Megan Ellis,Operations,Atlanta,Canada,Low,Open,Problem,Network,Service Desk,Oracle,Dell,2026-04-03,2026-04-09,Configuration,Camera maintain top air.
+INC100079,EMP1030,Jamie Herrera,IT,Chicago,Canada,High,Closed,Change,Hardware,Application Team,ServiceNow,Microsoft,2026-06-06,2026-06-20,User Error,War position just air that.
+INC100080,EMP1097,Vickie Wright,Operations,Seattle,Mexico,Low,In Progress,Problem,Network,Service Desk,ServiceNow,IBM,2025-08-15,2025-08-25,Replaced,Wear movement race down radio.
+INC100081,EMP1074,Michael Burgess,HR,Chicago,Canada,Critical,Closed,Problem,Software,Service Desk,Oracle,Dell,2026-03-16,2026-03-29,Configuration,Coach southern often operation.
+INC100082,EMP1063,Cynthia Mcintyre,Sales,Chicago,USA,High,Open,Request,Email,Network Team,SAP,Microsoft,2025-07-18,2025-07-29,User Error,Figure job simply lawyer choice back.
+INC100083,EMP1091,Kristopher Rodriguez,Procurement,Dallas,USA,Low,Resolved,Problem,Network,Security Team,ServiceNow,Microsoft,2026-01-30,2026-02-01,Configuration,Go realize whom letter rather important occur together.
+INC100084,EMP1073,Brandy Delacruz,IT,Atlanta,Mexico,High,Open,Change,Network,Network Team,Oracle,Cisco,2025-07-15,2025-07-25,Reboot,Agree arm sister.
+INC100085,EMP1018,Stephanie Cox,Finance,Dallas,USA,Low,In Progress,Change,Software,Application Team,ServiceNow,Dell,2025-11-15,2025-11-27,Configuration,Hold reach five poor Democrat good skill skill.
+INC100086,EMP1004,Hayden Hendricks,Procurement,Dallas,Canada,Critical,Closed,Change,Network,Service Desk,Salesforce,Dell,2026-02-07,2026-02-09,Resolved,Nation increase weight five.
+INC100087,EMP1006,Alexander Lambert,Finance,Atlanta,Canada,Critical,Closed,Problem,Network,Service Desk,ServiceNow,Dell,2025-10-31,2025-11-13,Reboot,Campaign page style care big admit their person.
+INC100088,EMP1017,Kathryn Stewart,Finance,New York,USA,HIGH,Closed,Problem,Email,Security Team,ServiceNow,IBM,2025-12-16,2025-12-21,Replaced,Produce mouth soldier hospital charge ever organization surface.
+INC100089,EMP1088,Rachel Dunn,Procurement,Dallas,Canada,High,Open,Problem,Network,Security Team,ServiceNow,Cisco,2026-05-21,2026-06-01,Resolved,Million deal action responsibility ready.
+INC100090,EMP1073,James Moyer,Operations,Chicago,Canada,High,Open,Incident,Software, Application Team ,Salesforce,Cisco,2026-07-05,2026-07-06,Reboot,Candidate all operation he model above lose.
+INC100091,EMP1060,Julia Buckley,HR,Atlanta,Canada,Low,Closed,Problem,Network,Service Desk,Oracle,IBM,2026-06-14,2026-06-15,Replaced,Magazine agent eat hear.
+INC100092,EMP1046,Tommy Sheppard,HR,Seattle,Mexico,Medium,In Progress,Problem,Software,Service Desk,ServiceNow,Cisco,2025-10-10,2025-10-12,Resolved,While factor light.
+INC100093,EMP1045,Keith Valenzuela,Finance,Atlanta,Mexico,Low,Closed,Change,Software,Security Team,Salesforce,IBM,2026-02-23,2026-02-27,Replaced,Leg about born receive stuff check hard boy.
+INC100094,EMP1066,Shawn Bell,Sales,Seattle,Canada,Critical,Open,Request,Network,Network Team,Salesforce,Cisco,2026-05-12,2026-05-15,Resolved,Role value sell series company mention.
+INC100095,EMP1064,Robert Miller,Sales,Chicago,Mexico,Medium,Open,Problem,Hardware,Application Team,Salesforce,IBM,2026-03-19,2026-03-24,Reboot,Establish respond see Mrs man chance.
+INC100096,EMP1055,Travis Wilkins,HR,New York,USA,CRITICAL,Resolved,Incident,Network,Service Desk,Salesforce,Microsoft,2026-02-27,2026-03-03,Resolved,Since series return skill.
+INC100097,EMP1015,Sean Johnson,Operations,Seattle,Mexico,Low,Resolved,Change,Network,Security Team,Salesforce,IBM,2025-09-29,2025-10-04,Reboot,Learn various crime enough its modern.
+INC100098,EMP1029,Kenneth Miller,Sales,Seattle,Canada,Medium,Closed,Problem,Hardware,Service Desk,Salesforce,Dell,2025-12-11,2025-12-15,Reboot,Fish represent look accept visit heart.
+INC100099,EMP1087,Scott Parsons,HR,Atlanta,Mexico,Low,In Progress,Change,Email,Security Team,SAP,Microsoft,2026-04-08,2026-04-15,Replaced,Military than past.
+INC100100,EMP1026,Brittany Alexander,Operations,New York,Mexico,Critical,In Progress,Incident,Email,Application Team,Oracle,Cisco,2025-08-15,2025-08-26,Reboot,Person responsibility out tax will detail compare them.
+INC100101,EMP1031,Carla Grant,Procurement,Atlanta,USA,High,Open,Change,Software,Network Team,Salesforce,Microsoft,2025-08-28,2025-09-03,User Error,Imagine pick so.
+INC100102,EMP1067,Kyle Villarreal,Operation,Atlanta,USA,High,Closed,Incident,Hardware,Network Team,SAP,IBM,2026-04-01,2026-04-14,Reboot,Blood about answer service thus police simple.
+INC100103,EMP1053,Daniel Fowler,Operations,Atlanta,USA,Critical,Open,Problem,Network,Security Team,SAP,Microsoft,2025-12-27,2025-12-31,Configuration,Heavy night lay page.
+INC100104,EMP1033,Amy Duran,Procurement,New York,Canada,Medium,Closed,Request,Hardware,Application Team,Oracle,Dell,2025-07-19,2025-07-28,Configuration,It water develop deal someone.
+INC100105,EMP1059,Bonnie Munoz,Operations,Atlanta,Canada,High,Resolved,Problem,Network,Network Team,ServiceNow,Dell,2025-09-09,2025-09-12,Reboot,Wide degree letter fish but.
+INC100106,EMP1038,Mark Jackson,HR,Seattle,Canada,Low,Open,Change,Hardware,Service Desk,Oracle,Dell,2025-10-18,2025-10-31,Resolved,Consumer former message.
+INC100107,EMP1020,Anne Poole,Sales,Chicago,USA,High,In Progress,Request,Email,Network Team,SAP,Microsoft,2025-07-22,2025-08-06,Configuration,Themselves mean while television others.
+INC100108,EMP1018,Michael Barber,Sales,New York,Canada,Critical,Resolved,Change,Hardware,Application Team,ServiceNow,Microsoft,2026-03-13,2026-03-22,Configuration,Current several moment yes especially table away.
+INC100109,EMP1068,Ricky Mitchell,IT,Chicago,Canada,Critical,Resolved,Incident,Network,Security Team,Oracle,Dell,2026-01-03,2026-01-08,Configuration,Evening help image task thank difference compare.
+INC100110,EMP1056,Julie Green,HR,New York,Mexico,CRITICAL,Resolved,Request,Hardware,Service Desk,ServiceNow,Microsoft,2026-01-03,2026-01-18,Configuration,Authority pattern discuss size growth then kind.
+INC100111,EMP1043,Tonya Lawson,Sales,Chicago,USA,Critical,In Progress,Incident,Hardware,Application Team,ServiceNow,Cisco,2026-06-16,2026-06-21,Reboot,Low sense civil kid.
+INC100112,EMP1015,Laura Ross,HR,Atlanta,Canada,Low,Open,Problem,Network,Security Team,Oracle,Microsoft,2025-11-24,2025-12-01,Replaced,Deal include here cover even chance.
+INC100113,EMP1040,Sarah Lewis,IT,Chicago,Canada,Medium,Resolved,Request,Software,Security Team,SAP,Cisco,2025-10-30,2025-11-08,Reboot,Baby knowledge between stock ask when.
+INC100114,EMP1045,Lisa Robinson,Operations,Seattle,Canada,Medium,Closed,Problem,Network,Service Desk,Salesforce,Dell,2026-04-04,2026-04-07,User Error,Tend or feel boy no order add.
+INC100115,EMP1010,Kara Perez,HR,Chicago,Mexico,High,Closed,Problem,Hardware,Application Team,Salesforce,IBM,2026-02-16,2026-02-20,Configuration,Stop board us increase chair hour.
+INC100116,EMP1044,Kimberly Carroll,Sales,Seattle,Canada,Low,Open,Problem,Network,Network Team,SAP,Dell,2026-05-28,2026-06-07,Configuration,Particular any big value firm over worker issue.
+INC100117,EMP1020,Katie Williams,IT,Seattle,USA,High,Resolved,Incident,Email,Application Team,Oracle,IBM,2026-07-06,2026-07-08,Replaced,Away individual statement itself simple behavior.
+INC100118,EMP1039,Latasha Sellers,HR,Dallas,Canada,Low,Open,Incident,Network,Service Desk,Salesforce,Dell,2026-03-26,2026-04-05,Resolved,Senior half number rich.
+INC100119,EMP1093,Timothy Olsen,IT,Chicago,Canada,Medium,Closed,Request,Software,Service Desk,Oracle,IBM,2025-11-07,2025-11-18,Resolved,Table effort but animal property ever environment.
+INC100120,EMP1062,Sean Ruiz,Sales,New York,Canada,High,Resolved,Change,Email,Application Team,ServiceNow,Cisco,2025-11-23,2025-12-08,Replaced,Bill teacher off white business.
+INC100121,EMP1075,James Jones,Procurement,Dallas,Canada,Medium,Closed,Change,Software,Network Team,ServiceNow,Cisco,2025-09-05,2025-09-08,Reboot,Everything hand significant candidate.
+INC100122,EMP1026,Sheila Sullivan,HR,Seattle,USA,Low,Resolved,Change,Email,Security Team,SAP,Dell,2025-10-29,2025-11-03,Reboot,Back factor military against individual laugh.
+INC100123,EMP1016,Meredith Nelson,IT,Atlanta,Canada,High,Resolved,Incident,Hardware,Service Desk,ServiceNow,Microsoft,2026-01-20,2026-01-28,Replaced,Degree although ten hand report.
+INC100124,EMP1034,Elizabeth Dunn,Sales,New York,Canada,Medium,Open,Incident,Email,Service Desk,SAP,Microsoft,2025-11-13,2025-11-15,Replaced,Responsibility discuss every.
+INC100125,EMP1078,Andrew Davis,HR,Atlanta,Canada,Medium,Closed,Change,Hardware,Service Desk,SAP,Microsoft,2026-04-14,2026-04-19,Resolved,Garden even former foreign fund animal nearly above.
+INC100126,EMP1088,Nicole Allen,IT,New York,USA,Medium,Closed,Change,Email,Application Team,ServiceNow,IBM,2026-06-15,2026-06-21,Reboot,Suggest policy rather writer other trip goal increase.
+INC100127,EMP1071,Daniel Blackburn,Finance,Seattle,Canada,Medium,Closed,Request,Hardware,Network Team,SAP,IBM,2026-03-23,2026-04-02,Replaced,Mrs similar skill attention interest radio evidence decide.
+INC100128,EMP1022,Adam Koch,HR,Dallas,Mexico,High,In Progress,Problem,Network,Service Desk,Salesforce,Cisco,2025-09-04,2025-09-15,Replaced,Thank the think.
+INC100129,EMP1019,Gregory Bell,Operations,Atlanta,USA,Medium,Open,Problem,Network,Network Team,SAP,Dell,2026-06-27,2026-07-05,Resolved,Since road his amount might.
+INC100130,EMP1082,Steven Bush,Finance,Seattle,USA,High,In Progress,Incident,Email,Network Team,ServiceNow,Cisco,2025-09-17,2025-09-21,Replaced,Available indicate save no red law not.
+INC100131,EMP1046,Gordon Townsend,IT,Seattle,Mexico,High,Closed,Problem,Hardware,Security Team,SAP,Dell,2026-04-08,2026-04-23,Resolved,Arm hair decision approach gas game our.
+INC100132,EMP1078,Wesley Taylor,Finance,Atlanta,USA,Critical,Closed,Request,Email,Application Team,SAP,IBM,2025-11-05,2025-11-12,User Error,Goal provide civil manager necessary appear seek.
+INC100133,EMP1030,Stephen Higgins,IT,Chicago,USA,Medium,Open,Request,Software,Network Team,ServiceNow,IBM,2026-03-22,2026-03-28,Resolved,Whole these grow section response agent fly.
+INC100134,EMP1050,Elizabeth Carter,Finance,Atlanta,Canada,Low,Open,Change,Software,Service Desk,ServiceNow,Microsoft,2026-06-04,2026-06-05,User Error,Arm position crime toward.
+INC100135,EMP1026,Kelly Hutchinson,Procurement,Dallas,USA,Medium,In Progress,Request,Email,Security Team,Oracle,Dell,2025-11-09,2025-11-17,Replaced,Understand add author conference majority edge.
+INC100136,EMP1012,Nicholas Holden,HR,Seattle,USA,Critical,In Progress,Problem,Hardware,Network Team,ServiceNow,Dell,2025-12-11,2025-12-18,Replaced,Customer become relationship card bit feel beat.
+INC100137,EMP1097,Ryan Jackson,Sales,Chicago,Mexico,Low,Closed,Change,Network,Network Team,ServiceNow,IBM,2026-03-05,2026-03-06,Resolved,Attorney buy economic develop.
+INC100138,EMP1064,Kenneth Morris,HR,Atlanta,USA,High,Open,Incident,Hardware,Service Desk,ServiceNow,IBM,2025-11-07,2025-11-17,Configuration,Notice society through local.
+INC100139,EMP1088,Jennifer Holt,Operations,New York,Mexico,Low,Resolved,Request,Hardware,Security Team,Oracle,IBM,2026-01-13,2026-01-21,User Error,Level politics cause any sometimes card.
+INC100140,EMP1060,Stacey Martin,IT,Dallas,Mexico,Low,Resolved,Request,Software,Security Team,Salesforce,Dell,2025-08-17,2025-09-01,Configuration,Himself reduce Mr land guess stock.
+INC100141,EMP1089,Janet Martin,Finance,Seattle,Canada,Low,In Progress,Incident,Network,Security Team,ServiceNow,IBM,2026-06-20,2026-07-01,Replaced,Team house itself air particularly firm suggest.
+INC100142,EMP1047,Hannah Newman,Sales,Atlanta,USA,Critical,Open,Change,Software,Network Team,Salesforce,Dell,2025-07-12,2025-07-14,Replaced,Simple system participant suffer.
+INC100143,EMP1045,Linda Walker,HR,Dallas,USA,Medium,In Progress,Incident,Email,Service Desk,SAP,Dell,2026-05-19,2026-05-21,Reboot,Firm school style position home.
+INC100144,EMP1091,Kenneth Martinez,HR,Seattle,Canada,Medium,Closed,Problem,Software,Service Desk,Salesforce,Cisco,2026-02-21,2026-02-26,Resolved,Your court front shake cold player.
+INC100145,EMP1062,Amber Simon,Sales,New York,USA,Critical,Closed,Change,Software,Network Team,ServiceNow,Cisco,2025-08-09,2025-08-22,Reboot,Early nation population hear admit past candidate.
+INC100146,EMP1038,Alexis Edwards,Operations,Seattle,Mexico,High,Open,Change,Hardware,Security Team,ServiceNow,Cisco,2026-04-12,2026-04-19,Configuration,Amount key focus sport those official college line.
+INC100147,,Tyler Pierce,HR,Dallas,Mexico,Low,Open,Incident,Email,Security Team,SAP,IBM,2026-04-21,2026-04-25,Resolved,Lay beat industry house.
+INC100148,EMP1002,Stephanie King,HR,Dallas,Mexico,HIGH,Closed,Problem,Hardware,Security Team,Oracle,Microsoft,2025-11-28,2025-12-01,Configuration,Speech eight seem.
+INC100149,EMP1066,Lindsay Mccall,Finance,Dallas,USA,Medium,Closed,Incident,Email,Security Team,Oracle,Dell,2025-09-02,2025-09-14,Reboot,Network perhaps under human laugh.
+INC100150,EMP1035,Dale Yates,Sales,New York,USA,Medium,Open,Problem,Hardware,Network Team,ServiceNow,Microsoft,2025-08-08,2025-08-16,Reboot,Range agency street maybe.
+INC100151,EMP1025,Amy Anderson,HR,Dallas,USA,Critical,In Progress,Problem,Software,Service Desk,ServiceNow,Cisco,2026-01-26,2026-01-30,Configuration,Dream list front meet.
+INC100152,EMP1040,Stephanie Bates,Operations,New York,Mexico,Low,Resolved,Problem,Email,Network Team,Oracle,IBM,2025-07-31,2025-08-09,Resolved,Management piece truth a civil.
+INC100153,EMP1010,Nicholas Leach,HR,Chicago,USA,Critical,Open,Problem,Network,Network Team,Oracle,Dell,2025-12-02,2025-12-11,Replaced,Rise into have campaign risk approach should.
+INC100154,EMP9999,Julie Morgan,Finance,Dallas,USA,Critical,Open,Incident,Email,Network Team,Salesforce,IBM,2026-01-06,2026-01-19,Replaced,Agency southern research.
+INC100155,EMP9999,Brianna Hernandez,HR,Dallas,Mexico,Medium,Open,Incident,Network, Application Team ,Oracle,IBM,2025-09-11,2025-09-25,Resolved,Voice machine meet suggest such kind too.
+INC100156,EMP1092,Diane Hubbard,Finance,Atlanta,USA,Critical,Open,Incident,Network,Service Desk,SAP,Microsoft,2025-08-23,2025-08-21,Resolved,Cultural glass fight act wife major audience.
+INC100157,EMP1041,Dr. Mark Quinn,Operations,Chicago,USA,Low,Open,Incident,Hardware,Security Team,ServiceNow,Cisco,2025-09-30,2025-10-13,User Error,Music quickly painting particularly prevent mission.
+INC100158,EMP1043,Alan Phillips,Procurement,Seattle,Canada,Critical,In Progress,Change,Network,Security Team,ServiceNow,Dell,2025-09-26,2025-09-30,User Error,Report plant office yes.
+INC100159,EMP1057,Sandra Weaver,HR,Atlanta,USA,High,Closed,Incident,Email,Application Team,ServiceNow,Dell,2026-04-11,2026-04-17,Resolved,Hospital become least.
+INC100160,EMP1076,Nicholas Simpson,Finance,Atlanta,Canada,High,Open,Problem,Software,Security Team,ServiceNow,Microsoft,2025-10-25,2025-11-07,User Error,Local age wish manage teacher current.
+INC100161,EMP1001,Ricky Peterson,HR,Dallas,USA,Low,Closed,Request,Software,Security Team,SAP,Dell,2025-12-05,2025-12-12,User Error,Human anything check me reason garden environment sort.
+INC100162,EMP1016,Darryl Mcclure,Sales,Seattle,Mexico,Medium,Open,Request,Network,Service Desk,Salesforce,Dell,2025-12-05,2025-12-06,Reboot,Stuff maybe production care couple.
+INC100163,EMP1044,Nathan Wilkins,Finance,Atlanta,Canada,Critical,Closed,Problem,Hardware,Security Team,Salesforce,Microsoft,2026-03-28,2026-04-09,Resolved,Seek team center far employee company game.
+INC100164,EMP1009,Jennifer Juarez,Procurement,Atlanta,Mexico,Critical,Open,Incident,Network,Service Desk,Oracle,Cisco,2025-10-11,2025-10-25,Reboot,Our why artist visit morning two.
+INC100165,EMP1032,Vanessa Thompson,Operations,New York,Canada,Critical,In Progress,Problem,Email,Service Desk,SAP,Cisco,2025-12-26,2026-01-01,Configuration,Hard sure free along edge.
+INC100166,EMP1042,Johnathan Wright,IT,Atlanta,Mexico,Low,Resolved,Request,Email,Application Team,Oracle,Dell,2025-11-27,2025-12-12,Reboot,Generation eight through.
+INC100167,EMP1090,Michele Fleming,IT,Dallas,Canada,Low,Open,Change,Software,Service Desk,Oracle,Microsoft,2025-11-13,2025-11-27,Resolved,Number degree stay pass.
+INC100168,EMP1063,Donald Johnston,Procurement,New York,USA,High,Open,Change,Software,Network Team,SAP,Dell,2026-03-10,2026-03-21,Reboot,Then look brother course chair if.
+INC100169,EMP1048,Julie Anderson,Finance,Atlanta,USA,High,Open,Request,Email,Service Desk,ServiceNow,Microsoft,2026-06-24,2026-07-08,User Error,Civil country heart fine say middle.
+INC100170,EMP1047,James Moore,IT,Chicago,Canada,Medium,Resolved,Change,Email,Network Team,ServiceNow,Cisco,2025-08-20,2025-09-03,Configuration,Claim care drive piece nor soldier.
+INC100171,EMP1056,Kevin Summers,Finance,Dallas,Mexico,High,Resolved,Incident,Software,Security Team,ServiceNow,Dell,2026-04-24,2026-04-29,Replaced,Face place try weight conference until.
+INC100172,EMP1075,Kevin Baker,Sales,Seattle,USA,Medium,In Progress,Incident,Software,Service Desk,Salesforce,IBM,2026-01-19,2026-02-02,Replaced,Case own room hour everything.
+INC100173,,Kathy Marshall,Sales,Chicago,USA,Critical,Resolved,Problem,Software,Service Desk,ServiceNow,IBM,2026-04-02,2026-04-05,Resolved,Together member know subject industry.
+INC100174,EMP1008,Angela Lee,Sales,New York,Mexico,Medium,Open,Change,Network,Security Team,SAP,Dell,2025-08-24,2025-08-31,Configuration,Nature her term resource continue.
+INC100175,EMP1017,Raymond Floyd,Finance,Seattle,Mexico,High,Open,Problem,Email,Service Desk,ServiceNow,Cisco,2026-01-03,2026-01-11,Reboot,Beautiful himself where conference air across nature.
+INC100176,EMP1016,Jenny Dunn,Operations,Seattle,Canada,Medium,In Progress,Incident,Software,Application Team,SAP,Dell,2026-06-23,2026-07-02,Reboot,Understand small seek before make person.
+INC100177,EMP1026,Tony Martin,Operations,Seattle,Mexico,Low,In Progress,Problem,Hardware,Service Desk,SAP,Microsoft,2025-07-12,2025-07-13,Resolved,Trial during yard pass.
+INC100178,EMP1021,Rachel Brown,Procurement,Atlanta,USA,Critical,Closed,Request,Software,Service Desk,Salesforce,Cisco,2026-02-02,2026-02-15,User Error,Again child political maybe collection center build.
+INC100179,EMP1072,Natalie Figueroa,Procurement,Atlanta,Mexico,Critical,Resolved,Request,Email,Service Desk,Oracle,IBM,2025-09-28,2025-10-04,Replaced,Pressure yeah reason current money whole.
+INC100180,EMP1008,Karen Steele,Finance,Chicago,Canada,Low,Open,Change,Network,Network Team,SAP,Microsoft,2025-08-16,2025-08-29,Replaced,Police prove baby capital area compare.
+INC100181,EMP1005,Jason Lutz,Procurement,Chicago,Canada,Critical,Resolved,Request,Email,Security Team,ServiceNow,IBM,2025-11-06,2025-11-16,Reboot,Network will real particularly safe impact leg true.
+INC100182,EMP1099,Teresa Morales,HR,Seattle,USA,Low,In Progress,Change,Network,Service Desk,Salesforce,Microsoft,2025-08-05,2025-08-10,Reboot,Present season trial significant.
+INC100183,EMP1008,John Sanchez,Procurement,Seattle,Mexico,High,Closed,Incident,Software,Application Team,ServiceNow,Microsoft,2026-06-25,2026-06-29,Reboot,Drop avoid American statement central attention network.
+INC100184,EMP1098,David Hansen,Procurement,Seattle,Mexico,Low,Closed,Problem,Software, Security Team ,ServiceNow,Dell,2025-07-21,2025-07-31,User Error,Focus billion my network cup.
+INC100185,EMP1075,Lori Murray,Sales,Dallas,Canada,medium,Open,Change,Software,Security Team,SAP,Microsoft,2025-07-31,2025-08-15,Reboot,Player president data television despite home feeling.
+INC100186,EMP1089,Nicholas Lewis,Finance,New York,Mexico,Medium,Open,Change,Hardware,Application Team,ServiceNow,Microsoft,2025-11-21,2025-11-29,Replaced,System either summer thank win since against we.
+INC100187,EMP1035,Daniel Williams,Operations,Atlanta,USA,Low,Closed,Change,Email,Network Team,Oracle,Cisco,2026-03-11,2026-03-18,Reboot,Air get though.
+INC100188,EMP1048,Walter Mullen,IT,Chicago,Mexico,Medium,Resolved,Incident,Email,Service Desk,Oracle,IBM,2026-05-03,2026-05-15,Resolved,Number free court give away.
+INC100189,EMP1059,Brian Fernandez,Procure,Dallas,Mexico,High,Closed,Request,Software,Application Team,SAP,Dell,2025-07-21,2025-07-26,Reboot,No indeed next game.
+INC100190,EMP1006,Grant Mccullough,IT,Seattle,Canada,High,In Progress,Incident,Email,Network Team,SAP,Cisco,2026-04-28,2026-05-03,Replaced,Early treatment position.
+INC100191,EMP1040,Nicole Nicholson DDS,Procurement,Atlanta,USA,Critical,Resolved,Problem,Network,Application Team,Salesforce,Dell,2026-02-09,2026-02-18,Replaced,Buy nature school when nature.
+INC100192,EMP1059,Devin Osborne,IT,Chicago,Canada,Medium,Resolved,Incident,Hardware,Security Team,Oracle,Microsoft,2025-11-17,2025-11-20,Configuration,Difference down data.
+INC100193,EMP1098,Mary Gomez,Finance,Dallas,USA,Medium,In Progress,Request,Network,Network Team,Salesforce,Dell,2025-08-23,2025-08-27,User Error,Environmental detail she brother machine.
+INC100194,EMP1011,Jordan Fischer,IT,Dallas,USA,Critical,In Progress,Problem,Email,Application Team,Oracle,Dell,2026-05-26,2026-05-31,Replaced,Read wind hit teach.
+INC100195,EMP1003,Dawn Lowery,HR,Dallas,Canada,Low,Open,Problem,Software, Security Team ,Salesforce,Dell,2025-08-18,2025-08-27,Resolved,Site special us learn.
+INC100196,EMP1083,Faith Smith,Finance,New York,Canada,High,Open,Change,Email,Application Team,SAP,IBM,2026-05-15,2026-05-16,Configuration,Live agreement system add job real camera.
+INC100197,EMP1079,Brian Mcknight,HR,Atlanta,Canada,Medium,Open,Change,Network,Service Desk,SAP,Dell,2025-12-18,2025-12-20,Replaced,Way perhaps wife.
+INC100198,EMP1033,David Harrison,Finance,Seattle,Mexico,Low,In Progress,Incident,Software,Application Team,Oracle,IBM,2025-12-14,2025-12-20,Reboot,Phone four threat federal several research.
+INC100199,EMP9999,Rodney Alvarez,IT,Seattle,Mexico,High,Closed,Change,Network,Security Team,ServiceNow,IBM,2026-05-26,2026-06-06,Reboot,Story heavy prepare item mouth better technology.
+INC100200,EMP1082,Caleb Mercado,Sales,Chicago,Mexico,Medium,In Progress,Problem,Email,Security Team,SAP,Dell,2025-11-15,2025-11-24,Reboot,Affect probably of too situation.
+INC100201,EMP1033,Paul Hughes,IT,Atlanta,Mexico,Low,In Progress,Change,Hardware,Application Team,Oracle,Cisco,2025-09-27,2025-10-05,User Error,Market employee charge dream.
+INC100202,EMP1089,Donna Schaefer,Procurement,Dallas,Mexico,Medium,Resolved,Incident,Network,Application Team,ServiceNow,IBM,2025-08-13,2025-08-19,Replaced,Form seek low relationship half.
+INC100203,EMP1034,Shannon Ryan DDS,Finance,New York,Canada,High,Resolved,Incident,Network,Service Desk,Salesforce,Microsoft,2026-04-01,2026-04-02,Configuration,After way month high without including community late.
+INC100204,EMP1062,Jill Miller,HR,New York,Mexico,Medium,Open,Request,Network,Security Team,Oracle,Microsoft,2026-05-09,2026-05-23,Resolved,That task sense partner appear just.
+INC100205,EMP1068,Angela Guerra,IT,Atlanta,USA,Low,Resolved,Change,Network,Network Team,Oracle,Microsoft,2026-04-25,2026-04-29,User Error,Successful tax TV health lose eat wish usually.
+INC100206,EMP1033,Paul Velazquez,Sales,New York,Canada,Medium,Resolved,Incident,Network,Service Desk,SAP,Dell,2026-03-28,2026-04-08,Configuration,Same prevent fire charge fight.
+INC100207,EMP1093,Christopher Johnson,Procurement,New York,Canada,Medium,Open,Request,Hardware,Network Team,Oracle,IBM,2025-08-20,2025-09-02,User Error,Station nor second also science serve you act.
+INC100208,EMP1036,Mary Murray,Sales,Dallas,Canada,High,Open,Request,Network,Application Team,Oracle,Cisco,2025-12-14,2025-12-28,User Error,Order station economy even light late.
+INC100209,EMP1011,Wesley Jensen,IT,Atlanta,Mexico,Critical,Resolved,Request,Email,Security Team,Oracle,Dell,2025-07-13,2025-07-17,User Error,Around door recent front family sport.
+INC100210,EMP1002,Caleb Moore,HR,Chicago,USA,Medium,In Progress,Request,Email,Network Team,Oracle,Microsoft,2026-01-28,2026-02-03,Replaced,Anyone where system leave national.
+INC100211,EMP1076,Charles Hall,Sales,Dallas,Mexico,Medium,Open,Incident,Hardware,Service Desk,ServiceNow,Dell,2025-10-22,2025-10-26,Resolved,Program loss wind man notice.
+INC100212,EMP1087,Barbara Anderson,Sales,Dallas,Mexico,Critical,Resolved,Change,Email,Application Team,SAP,Cisco,2026-06-17,2026-06-24,User Error,Stuff usually door boy probably.
+INC100213,EMP1055,Angela Gregory,Procurement,Chicago,Canada,Low,In Progress,Problem,Email,Security Team,SAP,Microsoft,2026-02-11,2026-02-25,User Error,Raise enter these despite similar fire discover.
+INC100214,EMP1074,Jared Pacheco,Operations,Seattle,USA,High,Closed,Problem,Software,Service Desk,Oracle,Microsoft,2025-10-18,2025-10-31,Replaced,Arrive he cost old around.
+INC100215,EMP1018,Thomas Thompson,Procurement,Seattle,Mexico,Medium,Open,Problem,Software,Network Team,Salesforce,Cisco,2026-04-14,2026-04-19,Reboot,Religious Mrs build why own.
+INC100216,EMP1026,Erik Martinez,HR,New York,USA,Low,Resolved,Problem,Email,Service Desk,Oracle,Cisco,2026-05-18,2026-05-25,Reboot,Purpose exist another world upon.
+INC100217,EMP1023,Cheryl Johnson,Procurement,Dallas,Canada,Medium,Closed,Change,Email,Network Team,SAP,Cisco,2025-08-01,2025-08-05,User Error,Save job maybe ready lead why open.
+INC100218,EMP1031,Michael Malone,Sales,Atlanta,Canada,High,In Progress,Request,Hardware,Application Team,Oracle,Microsoft,2026-06-21,2026-07-06,Replaced,Threat buy them my evidence.
+INC100219,EMP1035,Michael Johnson,Operations,Dallas,Mexico,Low,Open,Problem,Software,Application Team,Oracle,IBM,2026-06-19,2026-06-30,User Error,Again skin money point.
+INC100220,EMP1013,Gabriella Bailey,Procurement,New York,Canada,Low,Resolved,Incident,Network,Network Team,SAP,IBM,2025-11-27,2025-12-01,Resolved,Forward organization stop take so.
+INC100221,EMP1029,Richard Huff,Procurement,Chicago,Canada,High,Open,Request,Network,Security Team,SAP,IBM,2025-09-07,2025-09-08,Replaced,Prove since fish official pressure.
+INC100222,EMP1082,Rebecca Garrett,IT,New York,USA,High,Open,Request,Hardware,Application Team,SAP,Dell,2026-01-20,2026-02-03,Configuration,Security politics experience today each network.
+INC100223,EMP1097,Tyler Brown,Sales,Seattle,USA,High,Closed,Request,Email, Network Team ,SAP,Microsoft,2026-04-24,2026-05-09,Reboot,Ten compare agent too glass.
+INC100224,EMP1019,Lauren Thompson,Procurement,New York,Canada,High,Resolved,Problem,Hardware,Application Team,Oracle,Cisco,2025-08-23,2025-08-26,Reboot,Soon face all stuff history job arm edge.
+INC100225,EMP1050,Katrina Johnson,Operation,New York,Mexico,High,In Progress,Incident,Network,Network Team,Oracle,IBM,2026-04-19,2026-04-27,Reboot,Base range rather able tonight bed film.
+INC100226,EMP1081,Michelle Houston,Sales,New York,Canada,Critical,Closed,Change,Hardware,Service Desk,ServiceNow,Microsoft,2025-11-27,2025-12-02,Replaced,Score seven run again clear for best.
+INC100227,EMP1077,Clayton Williams,HR,Chicago,Mexico,Critical,Resolved,Request,Hardware,Security Team,Oracle,Dell,2026-02-13,2026-02-14,Configuration,Author rest every prevent mind.
+INC100228,EMP1081,Jason Smith,Procurement,Dallas,Canada,Medium,Resolved,Problem,Network,Application Team,Salesforce,Dell,2025-07-11,2025-07-21,Replaced,Fly space TV popular easy early maybe choice.
+INC100229,EMP1022,Alexis Parks,Operations,Atlanta,Canada,Medium,Open,Problem,Software,Security Team,ServiceNow,Dell,2025-12-30,2026-01-01,User Error,Support minute machine reality reach wear thus.
+INC100230,EMP1049,Stephanie Ochoa,Operations,Dallas,Mexico,High,Open,Change,Software,Application Team,ServiceNow,Cisco,2025-11-12,2025-11-27,Reboot,Sister color table authority affect mention agreement.
+INC100231,EMP1023,Phillip Harper,IT,Atlanta,Mexico,Low,Open,Incident,Hardware,Service Desk,SAP,Cisco,2025-08-12,2025-08-26,Replaced,Wide customer president.
+INC100232,,Jill Stevens,HR,Chicago,Canada,Low,In Progress,Change,Hardware,Security Team,SAP,Microsoft,2026-03-11,2026-03-16,Resolved,Yes stock institution how defense south film.
+INC100233,EMP1007,Chase Cline,Sales,Seattle,Canada,medium,In Progress,Problem,Email,Service Desk,Salesforce,IBM,2026-06-06,2026-06-15,User Error,Year American meet forward relationship.
+INC100234,EMP1054,Jonathan Summers,IT,Atlanta,Mexico,Medium,Closed,Change,Network,Network Team,Salesforce,Dell,2026-04-23,2026-05-05,Configuration,Notice attention between able.
+INC100235,EMP1099,Marco Willis,HR,Chicago,USA,High,Closed,Incident,Network,Application Team,Oracle,IBM,2026-01-09,2026-01-14,User Error,Yes these treatment room employee attention threat.
+INC100236,EMP1081,Amber Carter,HR,Atlanta,USA,Low,Open,Change,Hardware,Network Team,SAP,IBM,2026-04-25,2026-05-02,Replaced,Strategy fund continue final black cultural.
+INC100237,EMP1097,Thomas Patterson,Procurement,Dallas,Canada,Low,Open,Problem,Email, Network Team ,SAP,Microsoft,2025-11-04,2025-11-19,Configuration,Management reach pretty smile air southern health.
+INC100238,EMP1038,Scott Krueger,Procurement,New York,USA,High,Resolved,Request,Email,Security Team,SAP,Microsoft,2026-05-04,2026-05-10,Configuration,Mouth work win field garden southern.
+INC100239,EMP1066,Renee Wilcox,Finance,Atlanta,Mexico,Medium,In Progress,Request,Software,Security Team,Oracle,Microsoft,2026-01-07,2026-01-20,Replaced,That do yeah.
+INC100240,EMP1021,Tanya Solomon,IT,Chicago,Canada,Low,Open,Incident,Hardware,Security Team,Salesforce,Microsoft,2026-06-09,2026-06-18,Reboot,Dark push agreement resource detail bit they.
+INC100241,EMP1075,Ernest Roberts,Operations,Seattle,Canada,High,Closed,Change,Software,Security Team,SAP,Cisco,2026-03-02,2026-03-11,Replaced,Defense job heavy trouble away small perhaps.
+INC100242,EMP1034,Jose Bailey,IT,Atlanta,Canada,High,In Progress,Request,Network,Service Desk,SAP,IBM,2026-01-28,2026-01-30,Replaced,Would agreement feeling find feeling.
+INC100243,EMP1084,Brian Massey,Finance,Chicago,USA,High,Resolved,Incident,Network,Application Team,Salesforce,IBM,2025-09-09,2025-09-22,Resolved,Memory town law herself civil apply subject.
+INC100244,EMP1029,Glenn Hampton,IT,Atlanta,Mexico,Medium,Open,Incident,Hardware,Network Team,ServiceNow,Microsoft,2025-09-02,2025-09-12,Resolved,Blue relationship various write security resource strategy important.
+INC100245,EMP1094,Catherine Young,Sales,Dallas,Mexico,Critical,In Progress,Problem,Network,Service Desk,Salesforce,Microsoft,2026-02-02,2026-02-15,User Error,Sense anything control western adult eight age focus.
+INC100246,EMP1088,Michael Green,HR,Dallas,Canada,Low,Open,Request,Network,Application Team,SAP,Dell,2025-08-28,2025-09-04,User Error,Remain feel rock study research green.
+INC100247,EMP1043,Andrew Beard,Procurement,Dallas,USA,Critical,Closed,Incident,Software,Security Team,ServiceNow,IBM,2026-03-06,2026-03-20,User Error,Though computer account inside.
+INC100248,EMP1074,Melissa Jones,Procurement,New York,USA,High,Resolved,Incident,Network,Service Desk,ServiceNow,Microsoft,2026-02-08,2026-02-15,User Error,Animal pass they wonder friend.
+INC100249,EMP1099,Sarah Steele,HR,Seattle,Canada,High,Closed,Problem,Software,Security Team,Oracle,IBM,2026-03-21,2026-04-02,Resolved,Participant pretty laugh Congress professional forget.
+INC100250,EMP1016,Kristin James,Procurement,Atlanta,Canada,Low,In Progress,Incident,Network, Security Team ,Salesforce,IBM,2026-01-06,2026-01-18,Replaced,Daughter indeed follow together human man.
+INC100251,EMP1019,Kelly Cohen,it,Seattle,Canada,Low,Open,Problem,Network,Service Desk,SAP,Cisco,2026-05-18,2026-05-23,User Error,War religious standard system effect.
+INC100252,EMP1080,Theresa Edwards,Procurement,Atlanta,USA,Low,Open,Change,Software,Service Desk,Oracle,Microsoft,2026-05-23,2026-06-01,Replaced,Say feel young fall fear.
+INC100253,EMP1053,Charles Allen,Sales,Dallas,Canada,Critical,Open,Incident,Hardware,Network Team,Salesforce,Cisco,2025-08-06,2025-08-21,Replaced,Laugh across forget probably term according these protect.
+INC100254,EMP1092,Alexis Matthews,HR,New York,Mexico,Low,In Progress,Incident,Network,Application Team,Oracle,IBM,2025-09-21,2025-09-24,User Error,Effort several be.
+INC100255,EMP1017,Andrew Goodman,Operations,Seattle,USA,Medium,Resolved,Incident,Network,Network Team,Oracle,Dell,2025-10-25,2025-10-26,User Error,Economy language force popular consumer Republican.
+INC100256,EMP9999,April Waller,Sales,New York,USA,High,Resolved,Problem,Network,Security Team,Salesforce,Cisco,2025-12-17,2025-12-25,Reboot,President lose debate capital store degree song.
+INC100257,EMP1079,Laura Jackson,IT,Atlanta,Mexico,High,In Progress,Incident,Network,Network Team,SAP,Dell,2026-05-31,2026-06-11,User Error,From dark within nature down nature.
+INC100258,EMP1061,Regina Brown,Operation,New York,Mexico,Low,Resolved,Request,Hardware,Application Team,Salesforce,Microsoft,2026-01-08,2026-01-14,Configuration,Race thought recently close experience month world section.
+INC100259,EMP1085,Barbara Smith,HR,Seattle,USA,Critical,Resolved,Change,Network,Service Desk,ServiceNow,Cisco,2025-08-04,2025-08-19,Resolved,Upon responsibility people agreement probably recent Republican.
+INC100260,EMP1095,James Duarte,IT,New York,USA,Medium,Closed,Request,Hardware,Application Team,SAP,IBM,2026-05-20,2026-05-22,Resolved,At begin over international pass.
+INC100261,EMP1043,Mr. Daniel Moody,Operations,Chicago,USA,Low,In Progress,Request,Email,Service Desk,SAP,Microsoft,2026-05-28,2026-06-04,Configuration,Money through major senior soon end those.
+INC100262,EMP1098,Lori Benjamin,Operations,Dallas,Mexico,Low,In Progress,Request,Email,Service Desk,SAP,Dell,2026-07-02,2026-07-17,Configuration,Image ability then community organization series.
+INC100263,EMP1011,Joseph Coffey,Sales,Atlanta,Mexico,Low,Closed,Problem,Software,Security Team,ServiceNow,IBM,2025-12-07,2025-12-18,Resolved,But behind assume everything stay.
+INC100264,EMP1057,Samantha Pierce,Finance,Atlanta,Canada,High,In Progress,Problem,Network,Network Team,Oracle,Dell,2026-03-10,2026-03-16,Configuration,Serious summer fire toward.
+INC100265,EMP1092,David Moore,Sales,Atlanta,USA,Critical,In Progress,Change,Network,Application Team,Salesforce,IBM,2025-11-05,2025-11-07,Reboot,Participant voice set leg enough agent police.
+INC100266,EMP1051,Anthony Gonzalez,HR,Seattle,Mexico,Critical,Resolved,Change,Hardware,Application Team,SAP,Dell,2025-10-10,2025-10-15,User Error,Small under strategy act position.
+INC100267,,Scott Moore,Finance,Chicago,Mexico,Critical,Resolved,Request,Network,Service Desk,SAP,Cisco,2025-07-31,2025-08-09,Reboot,Fast be third experience.
+INC100268,EMP1056,Matthew Phillips,HR,Chicago,Mexico,Critical,Closed,Change,Software,Network Team,Salesforce,Cisco,2026-04-23,2026-05-05,Resolved,Just whom by any career decide story three.
+INC100269,EMP1036,Zachary Sullivan,Sales,New York,Mexico,CRITICAL,In Progress,Incident,Email,Application Team,Oracle,Cisco,2025-12-25,2025-12-28,User Error,Data meeting offer serve miss.
+INC100270,EMP1004,Eric Ramirez,Procurement,Chicago,Mexico,Medium,In Progress,Change,Hardware,Security Team,Salesforce,IBM,2026-06-25,2026-07-04,Resolved,While argue fund maintain significant.
+INC100271,EMP1024,Shawn Harris,HR,Atlanta,Mexico,Low,Resolved,Problem,Hardware,Network Team,SAP,IBM,2025-07-29,2025-08-08,Reboot,Not through mean subject cover out Democrat.
+INC100272,,Jerry Benitez,HR,Dallas,USA,Low,Resolved,Change,Network,Network Team,SAP,Cisco,2025-11-13,2025-11-19,Configuration,Field may reason both PM.
+INC100273,,Jeffrey Young,IT,Atlanta,USA,High,Open,Incident,Network,Security Team,Oracle,IBM,2026-06-19,2026-07-04,Reboot,Collection information assume simply resource issue half someone.
+INC100274,EMP1051,Sean Wells,IT,Chicago,Mexico,Medium,Resolved,Problem,Email,Application Team,ServiceNow,IBM,2026-04-08,2026-04-22,Configuration,Physical south leader reach.
+INC100275,EMP1063,Larry Brown,Procurement,Dallas,USA,Medium,Resolved,Incident,Software,Network Team,ServiceNow,Microsoft,2026-01-17,2026-01-25,Replaced,Ok half social word partner.
+INC100276,EMP1007,Jamie Valentine,Procurement,Atlanta,Canada,Low,Resolved,Change,Email,Network Team,Oracle,Cisco,2025-11-15,2025-11-23,Replaced,Once daughter understand very office guess human else.
+INC100277,EMP1067,Jeremy Dunn,IT,New York,Canada,Medium,Closed,Incident,Hardware,Security Team,SAP,Cisco,2026-02-16,2026-02-18,Resolved,Agreement together loss side question someone.
+INC100278,EMP1087,Amanda Hess,Finance,Dallas,Canada,High,Open,Problem,Email,Application Team,Salesforce,Cisco,2025-08-14,2025-08-24,User Error,Check hair treatment guess.
+INC100279,EMP1097,William Gray,Procure,Dallas,Mexico,Critical,Closed,Change,Hardware,Network Team,Oracle,Microsoft,2026-06-06,2026-06-17,User Error,Many over bit describe but fine newspaper.
+INC100280,EMP1019,John Oliver,Sales,Dallas,Canada,Critical,Resolved,Request,Software,Network Team,ServiceNow,Dell,2026-02-27,2026-03-10,Resolved,Everyone girl letter we last likely measure you.
+INC100281,EMP1018,Francisco Williams,Sales,Chicago,USA,High,Closed,Problem,Network,Application Team,Oracle,IBM,2026-07-03,2026-07-04,User Error,Discover reason protect reason result religious.
+INC100282,EMP1085,Rachel Johnson,Procurement,New York,Mexico,High,In Progress,Incident,Hardware,Service Desk,ServiceNow,Microsoft,2026-03-10,2026-03-15,Replaced,President data general green.
+INC100283,EMP1015,Brian Bennett,HR,Chicago,Mexico,Medium,Resolved,Incident,Email,Service Desk,ServiceNow,Dell,2026-06-30,2026-07-12,Replaced,Political commercial every real affect however light.
+INC100284,EMP1006,Kenneth Sellers,Finance,Dallas,USA,Medium,In Progress,Request,Network,Network Team,Salesforce,Microsoft,2025-08-27,2025-08-30,Configuration,They message technology leave health low.
+INC100285,EMP1088,Derek Hebert,Operations,Dallas,Canada,Low,Resolved,Request,Email,Network Team,SAP,Microsoft,2026-05-08,2026-05-23,Resolved,Possible form together lay read.
+INC100286,EMP1002,John King,Procurement,New York,Mexico,Low,Closed,Incident,Software, Application Team ,SAP,Dell,2026-01-18,2026-01-27,Configuration,Environmental fact phone camera particular.
+INC100287,EMP1084,Joyce Copeland,IT,New York,Mexico,High,Closed,Request,Software,Security Team,SAP,Dell,2025-11-30,2025-12-01,Replaced,State bad thus blue care.
+INC100288,EMP1047,Hunter Graham,Sales,Dallas,USA,Low,Open,Incident,Software,Security Team,ServiceNow,Microsoft,2026-02-01,2026-02-05,Reboot,Practice begin best machine soon final account.
+INC100289,EMP1076,Kevin Perry DDS,Finance,Seattle,Mexico,Medium,Resolved,Incident,Network,Security Team,Salesforce,Cisco,2026-06-20,2026-07-02,Configuration,Assume effort protect consider little piece expect.
+INC100290,EMP1032,Cristian Wade,IT,Dallas,USA,High,Resolved,Change,Software,Service Desk,Oracle,IBM,2025-11-18,2025-11-20,Replaced,Field little career why yet.
+INC100291,,Anthony Casey,HR,Dallas,Mexico,Medium,Closed,Request,Hardware,Application Team,Oracle,Dell,2025-10-02,2025-10-14,Configuration,Billion claim ten read.
+INC100292,EMP1075,Brenda Cline,HR,New York,Mexico,Critical,Closed,Request,Email,Service Desk,SAP,Cisco,2025-11-10,2025-11-15,Reboot,Yet middle shoulder plant.
+INC100293,EMP1087,Susan Patel,IT,Seattle,USA,Critical,Open,Change,Hardware,Network Team,SAP,Cisco,2026-05-07,2026-05-19,Configuration,Organization call receive in heavy number science.
+INC100294,EMP1010,Angel Pratt,Procure,Dallas,Mexico,Critical,In Progress,Incident,Network,Network Team,ServiceNow,Cisco,2025-09-30,2025-10-06,Configuration,Food minute recent offer produce catch break.
+INC100295,EMP1044,Mariah Hernandez,Operations,Atlanta,Canada,Low,In Progress,Incident,Hardware,Service Desk,Salesforce,Cisco,2026-01-23,2026-02-01,User Error,Understand attorney various factor move focus news phone.
+INC100296,EMP1073,David Mata,Procurement,New York,Canada,High,In Progress,Incident,Email,Service Desk,SAP,Cisco,2025-09-02,2025-09-15,Replaced,Be look away cold.
+INC100297,EMP1033,Robert Vasquez,Procurement,Atlanta,USA,Critical,In Progress,Problem,Hardware,Security Team,Salesforce,Cisco,2025-09-09,2025-09-13,Configuration,Field wall itself chair treatment just.
+INC100298,EMP1079,Gabriel Smith,Sales,Chicago,Canada,Critical,Closed,Request,Software, Security Team ,Salesforce,Cisco,2025-10-31,2025-11-13,Configuration,Area feeling plan program financial.
+INC100299,EMP1062,Heather Dixon,Sales,Atlanta,USA,Critical,Resolved,Request,Network,Security Team,SAP,Cisco,2026-03-05,2026-03-09,User Error,Store particular foreign.
+INC100300,EMP1023,Wesley Aguilar,HR,New York,USA,Low,Open,Problem,Hardware,Security Team,ServiceNow,Cisco,2026-03-02,2026-03-04,User Error,Evidence week rule generation if be image.
+INC100301,EMP1021,Jessica Alvarez,IT,Seattle,USA,Medium,Open,Problem,Hardware,Service Desk,SAP,Microsoft,2025-09-13,2025-09-15,Replaced,End beat anything position.
+INC100302,EMP1016,Jonathon Evans,Procurement,New York,Mexico,Low,Open,Change,Hardware,Network Team,SAP,IBM,2026-01-07,2026-01-10,Configuration,Tax short page under bar back gas history.
+INC100303,EMP1072,Alexa Stewart,IT,Dallas,Canada,Low,Resolved,Request,Hardware,Security Team,SAP,Microsoft,2025-09-19,2025-09-26,Reboot,Every difference word standard station.
+INC100304,EMP1028,Nicole Ellison,HR,Atlanta,Mexico,Low,Open,Incident,Email,Network Team,Salesforce,IBM,2025-07-24,2025-08-04,Replaced,Church son data possible employee.
+INC100305,EMP1081,Tyler Hernandez,HR,New York,USA,Medium,In Progress,Request,Network,Security Team,SAP,Cisco,2026-04-10,2026-04-21,User Error,Order care away know.
+INC100306,EMP1019,Luis Rivera,Finance,Atlanta,USA,High,Open,Change,Hardware,Security Team,SAP,Dell,2025-08-19,2025-08-26,Replaced,Pretty also glass result life article.
+INC100307,EMP1059,Ronald Rodriguez,IT,Seattle,USA,Critical,In Progress,Request,Network,Service Desk,Salesforce,Cisco,2026-02-15,2026-02-26,Reboot,Pull after stage exactly above dark size.
+INC100308,EMP1061,Stacey Brown,HR,Atlanta,Canada,Critical,Open,Problem,Network,Application Team,ServiceNow,IBM,2026-02-13,2026-02-28,Replaced,Rate talk several must future key.
+INC100309,EMP1091,Christopher Krueger,Finance,Atlanta,Canada,High,Open,Request,Email,Application Team,Oracle,Dell,2026-05-01,2026-05-06,Configuration,Public able east suggest quite property.
+INC100310,EMP1091,Nicole Williams,Operations,Seattle,USA,Low,Resolved,Incident,Hardware,Network Team,SAP,Cisco,2025-07-20,2025-07-26,Reboot,After day condition draw.
+INC100311,EMP1041,Brenda Johnson,Operations,Dallas,Canada,High,In Progress,Problem,Software,Network Team,SAP,IBM,2026-05-07,2026-05-18,User Error,Ball media consumer office play husband glass.
+INC100312,EMP1087,Mark Carson,Finance,Dallas,Mexico,Medium,Resolved,Incident,Hardware,Service Desk,Salesforce,IBM,2025-09-26,2025-10-04,User Error,High growth process mean writer.
+INC100313,EMP1010,Bianca Williams,IT,Atlanta,Mexico,Medium,Resolved,Request,Hardware,Application Team,ServiceNow,IBM,2026-02-07,2026-02-14,Reboot,Less number subject those he method especially white.
+INC100314,EMP1044,Timothy Mueller,Procure,Seattle,Mexico,High,Resolved,Change,Software,Security Team,ServiceNow,Microsoft,2025-09-14,2025-09-22,Reboot,Painting from clear community.
+INC100315,EMP1057,Kevin Davis,Operations,New York,USA,Medium,Closed,Request,Email,Application Team,ServiceNow,IBM,2025-12-30,2025-12-31,Replaced,Research financial again short in candidate success.
+INC100316,EMP1001,William Hughes,Finance,Chicago,Mexico,Medium,Resolved,Incident,Software,Application Team,Salesforce,Cisco,2025-11-06,2025-11-13,Reboot,Stage continue yes air else loss.
+INC100317,EMP1085,Hannah Ramirez,Finance,Dallas,Canada,Critical,Closed,Change,Software,Service Desk,SAP,Dell,2026-02-21,2026-03-03,Reboot,Nor air style form.
+INC100318,EMP1000,Jeffery Pena,HR,New York,USA,Low,Closed,Incident,Hardware,Service Desk,Oracle,Microsoft,2026-02-03,2026-02-05,Configuration,Single wish little feel grow sing rise.
+INC100319,EMP1015,Courtney Mayo,Operations,New York,Canada,High,Resolved,Change,Hardware, Security Team ,SAP,Microsoft,2025-09-08,2025-09-16,Reboot,Agent explain might military.
+INC100320,EMP1080,Jason Hughes,Sales,Dallas,USA,High,Resolved,Change,Hardware,Application Team,Oracle,Microsoft,2026-06-15,2026-06-27,User Error,Agency prepare stage meet design range soldier.
+INC100321,EMP1054,Garrett Watts,IT,New York,USA,Low,Closed,Request,Hardware,Application Team,SAP,IBM,2026-01-11,2026-01-14,Resolved,Partner weight mention color.
+INC100322,EMP1072,Maria Mitchell,Operation,New York,Canada,Critical,Resolved,Problem,Network,Application Team,SAP,Microsoft,2026-05-02,2026-05-14,Configuration,Draw theory answer main eight decide marriage.
+INC100323,EMP1095,Joseph Pace,HR,New York,Canada,High,In Progress,Incident,Network,Network Team,SAP,Microsoft,2025-07-30,2025-07-31,Resolved,Character strong may magazine debate operation campaign.
+INC100324,EMP1067,Joseph Williams,Sales,Atlanta,Mexico,Low,Closed,Incident,Hardware,Service Desk,Oracle,Dell,2025-11-10,2025-11-25,Resolved,Process price sea sense.
+INC100325,EMP1013,Alexis Moyer,HR,Dallas,Canada,Critical,In Progress,Change,Email,Security Team,SAP,Dell,2026-05-17,2026-05-24,Reboot,Control late detail project.
+INC100326,EMP1056,Michael Haynes MD,Procurement,Dallas,Mexico,High,Open,Change,Network,Application Team,SAP,Dell,2025-08-15,2025-08-27,Reboot,Three election way himself level nature development law.
+INC100327,EMP1045,Frederick Henderson,Sales,Atlanta,Mexico,HIGH,In Progress,Problem,Network,Service Desk,SAP,Microsoft,2025-10-02,2025-10-03,User Error,Network summer reflect similar fact democratic.
+INC100328,EMP1045,Sarah Wiley,IT,Chicago,Mexico,High,Open,Change,Network, Network Team ,Oracle,IBM,2026-01-13,2026-01-16,Configuration,Experience on whole deep.
+INC100329,,Heidi Moore,Sales,Seattle,Mexico,High,Resolved,Change,Network,Service Desk,Oracle,IBM,2026-03-10,2026-03-12,Replaced,Prevent prepare throughout college huge college.
+INC100330,EMP1051,Robin Brown,Operations,Chicago,Mexico,Medium,Open,Problem,Network,Security Team,SAP,Dell,2026-05-07,2026-05-13,Reboot,Type whole where bank law attack.
+INC100331,EMP1086,Blake Robinson,Operations,Seattle,USA,Low,Resolved,Request,Software,Service Desk,ServiceNow,Microsoft,2026-04-24,2026-05-06,User Error,Human stage race.
+INC100332,EMP1056,Kellie Thomas,HR,New York,USA,Medium,Open,Problem,Email,Application Team,ServiceNow,Cisco,2026-02-10,2026-02-11,Reboot,Few different since value week animal people.
+INC100333,EMP1023,Michelle Sullivan,Sales,Chicago,Canada,High,In Progress,Problem,Software,Service Desk,ServiceNow,Microsoft,2025-10-08,2025-10-10,Replaced,Develop film when street return its.
+INC100334,EMP1042,Justin Pace,Procurement,Atlanta,USA,High,Open,Change,Network,Service Desk,SAP,IBM,2025-11-05,2025-11-09,Configuration,Cup avoid write back impact in hit president.
+INC100335,EMP1084,Karen West,Finance,Atlanta,Canada,Low,In Progress,Problem,Hardware,Service Desk,SAP,Dell,2025-12-27,2026-01-04,Resolved,Write clear police coach decade.
+INC100336,EMP1086,Savannah Taylor,Procurement,Dallas,Mexico,Critical,In Progress,Problem,Email,Service Desk,Salesforce,Dell,2026-01-04,2026-01-13,Reboot,Top way dark source.
+INC100337,EMP1025,Megan Cruz,HR,New York,Mexico,Critical,Closed,Request,Email,Network Team,Oracle,Cisco,2025-12-26,2026-01-07,Replaced,After fight brother pick.
+INC100338,EMP1049,Elizabeth Moore PhD,Operations,Dallas,USA,Medium,Open,Request,Email,Application Team,SAP,Cisco,2026-06-11,2026-06-13,Resolved,Middle magazine investment.
+INC100339,EMP1017,Danny Ramirez,IT,Seattle,Canada,Low,Resolved,Request,Software,Application Team,Salesforce,Cisco,2025-08-30,2025-08-31,Resolved,Third week determine rule.
+INC100340,EMP1077,Travis Harris,Procurement,Dallas,Canada,Low,Closed,Request,Email,Security Team,SAP,Microsoft,2025-12-12,2025-12-25,Reboot,Along walk wife less goal ready firm.
+INC100341,EMP1043,David Crawford,IT,Seattle,USA,Critical,Resolved,Incident,Network,Security Team,Salesforce,Cisco,2025-08-11,2025-08-15,Configuration,Story relationship general campaign program.
+INC100342,EMP1092,Kevin Young,Finance,Atlanta,Canada,High,Closed,Incident,Network,Security Team,SAP,IBM,2025-10-21,2025-11-02,Resolved,History dark help entire phone wonder.
+INC100343,EMP1022,Terri Russell,IT,Seattle,Mexico,High,In Progress,Problem,Software,Security Team,Oracle,Microsoft,2026-02-07,2026-02-22,Replaced,Physical share answer.
+INC100344,EMP1013,Dennis Schmitt,Operations,Atlanta,Mexico,High,Resolved,Request,Software,Network Team,Oracle,IBM,2026-01-01,2026-01-10,Configuration,Term world safe apply including mean set.
+INC100345,EMP1099,John Holland,Finance,Seattle,Canada,High,Open,Change,Hardware,Security Team,SAP,Microsoft,2026-06-17,2026-06-15,User Error,Cultural focus effect practice nothing institution.
+INC100346,EMP1082,Norman Perkins,Procurement,Dallas,Canada,High,In Progress,Change,Hardware,Security Team,ServiceNow,Dell,2026-02-15,2026-02-21,Resolved,Give finish plan may.
+INC100347,EMP1032,John Hendrix,IT,New York,Mexico,High,In Progress,Request,Network,Network Team,Salesforce,IBM,2026-04-11,2026-04-20,Reboot,As remember nothing part explain than middle sit.
+INC100348,EMP1055,Erica Adams,Sales,New York,USA,Medium,Resolved,Change,Hardware,Security Team,Oracle,IBM,2026-03-09,2026-03-11,Resolved,Fear here let.
+INC100349,EMP1084,Richard Walsh,Finance,Atlanta,Mexico,Critical,Resolved,Incident,Software,Service Desk,Salesforce,Microsoft,2026-04-24,2026-04-22,Resolved,Give heavy authority guess.
+INC100350,EMP1099,Katherine Williams,Operations,New York,Canada,Critical,In Progress,Change,Hardware,Application Team,ServiceNow,Cisco,2025-08-16,2025-08-22,Configuration,Guy available walk into understand large there.
+INC100351,EMP1095,Jessica Rose,Operations,Chicago,USA,Medium,Resolved,Change,Software,Security Team,SAP,IBM,2025-10-19,2025-10-26,Resolved,Resource wide sure nor really fill.
+INC100352,EMP1075,Dr. Robert Chavez DDS,Sales,New York,Canada,Critical,Open,Incident,Hardware,Service Desk,ServiceNow,Dell,2026-07-06,2026-07-14,User Error,Anyone training I sign rest strong continue field.
+INC100353,EMP1096,Janet Edwards,IT,Dallas,Canada,High,In Progress,Request,Software,Security Team,Salesforce,Cisco,2025-11-10,2025-11-15,Reboot,Glass say phone chair water near.
+INC100354,EMP1021,Tara Butler,Finance,Chicago,Canada,Low,Closed,Change,Hardware,Service Desk,Salesforce,Cisco,2025-09-01,2025-09-10,User Error,Environmental security American north.
+INC100355,EMP1011,April Harris,HR,New York,USA,Critical,Closed,Incident,Network,Security Team,Oracle,Cisco,2026-04-24,2026-05-05,Configuration,Wide paper be think provide.
+INC100356,EMP1040,Lauren Anderson,Finance,Atlanta,USA,High,Closed,Incident,Network,Network Team,Oracle,Dell,2026-01-24,2026-01-31,Configuration,Study upon prepare price candidate present.
+INC100357,EMP1016,Dr. Anthony Shelton,Finance,Dallas,USA,Low,Open,Change,Hardware,Security Team,Oracle,Microsoft,2026-06-06,2026-06-08,User Error,These boy form matter more.
+INC100358,EMP1074,Megan Vasquez,Sales,Seattle,Mexico,Low,Closed,Incident,Email,Network Team,Oracle,IBM,2026-05-19,2026-05-29,Reboot,Debate team take year.
+INC100359,EMP1053,Devon Martinez,HR,New York,USA,Medium,In Progress,Change,Hardware,Service Desk,Salesforce,Microsoft,2025-09-21,2025-09-22,Resolved,Threat central you budget suffer medical.
+INC100360,EMP1007,Dr. Marissa Nichols,Procurement,New York,Canada,Medium,Open,Incident,Email,Security Team,Oracle,Cisco,2025-10-04,2025-10-05,Replaced,Machine join official office education animal share.
+INC100361,EMP1084,Jessica Coleman,Operations,Seattle,USA,Critical,Open,Change,Hardware,Application Team,ServiceNow,IBM,2026-05-10,2026-05-11,Replaced,Gas walk student our order newspaper.
+INC100362,EMP1035,Brian Hunt,Sales,Atlanta,Canada,High,Open,Problem,Email,Network Team,Salesforce,IBM,2026-03-21,2026-03-24,Reboot,Treat avoid push very happen.
+INC100363,EMP1042,Kari Ward,FIN,Dallas,USA,Medium,Resolved,Problem,Network,Application Team,Oracle,Cisco,2025-07-28,2025-08-06,Replaced,Least far floor eat.
+INC100364,EMP1075,Kristin Kelly,HR,Dallas,USA,Low,Open,Problem,Email,Service Desk,SAP,Dell,2026-05-10,2026-05-19,Replaced,Position report Mr nature exist protect.
+INC100365,EMP9999,Jennifer Stark,Finance,Atlanta,Canada,Low,In Progress,Incident,Network,Application Team,Oracle,Microsoft,2025-11-30,2025-12-01,User Error,Plan him person relate question music.
+INC100366,,Steven Freeman,HR,Chicago,USA,Low,Closed,Request,Network,Application Team,ServiceNow,Dell,2025-09-26,2025-10-10,User Error,Provide person firm seat.
+INC100367,EMP1002,Kevin Williams,Sales,New York,USA,Low,Resolved,Problem,Hardware,Network Team,ServiceNow,Microsoft,2025-10-05,2025-10-18,Resolved,Start win skill who represent.
+INC100368,EMP1041,Rachel Logan,Procurement,Atlanta,Mexico,Critical,Open,Request,Hardware,Network Team,Oracle,Microsoft,2025-11-06,2025-11-16,User Error,Society wear attorney year catch.
+INC100369,EMP1042,Charlotte Barnes,Finance,Dallas,Canada,Critical,Closed,Incident,Hardware,Service Desk,Oracle,Dell,2025-07-19,2025-07-30,Configuration,Throw recognize store speak what remember.
+INC100370,,Andrew Rodriguez,Finance,Atlanta,Canada,Medium,Open,Change,Network,Service Desk,Oracle,Dell,2025-08-01,2025-08-03,Replaced,Wait number hold artist.
+INC100371,EMP1052,Melissa Kline,Procurement,Chicago,USA,Critical,Closed,Incident,Hardware, Service Desk ,Oracle,Microsoft,2026-05-14,2026-05-22,User Error,Table nice road over central because.
+INC100372,,Jordan Hernandez,Procurement,Atlanta,Canada,Low,In Progress,Incident,Email,Application Team,Oracle,Cisco,2025-12-21,2025-12-27,Reboot,Hundred program economy particularly news my.
+INC100373,EMP1039,Luis Morgan,Procurement,Seattle,Canada,High,In Progress,Change,Email, Network Team ,Oracle,Cisco,2025-12-11,2025-12-26,User Error,Another maybe series too serious management.
+INC100374,EMP1024,Brenda White,Sales,Chicago,Mexico,Medium,Closed,Incident,Email,Security Team,Oracle,Cisco,2026-01-20,2026-01-25,Configuration,Together less sign.
+INC100375,EMP1095,Benjamin Wallace,Sales,Atlanta,USA,Critical,Closed,Request,Hardware,Network Team,Oracle,IBM,2025-08-21,2025-08-31,User Error,Forward box look important Republican.
+INC100376,EMP1003,Michael Marsh,IT,Seattle,USA,High,Open,Problem,Email,Application Team,Oracle,Cisco,2025-10-24,2025-11-06,Reboot,Audience reduce positive teach follow fund.
+INC100377,EMP1000,Melissa Price,Operations,Seattle,Mexico,High,In Progress,Incident,Software,Network Team,Oracle,Dell,2026-04-07,2026-04-16,User Error,Strong PM agent.
+INC100378,EMP1094,David Hernandez,Procurement,Dallas,Canada,HIGH,Open,Problem,Network,Network Team,ServiceNow,IBM,2026-02-27,2026-02-28,User Error,House soon nation instead.
+INC100379,EMP1050,Michael Russo,Sales,New York,Mexico,High,In Progress,Incident,Network,Security Team,Oracle,Cisco,2026-06-01,2026-06-14,Replaced,Return throughout many weight anyone.
+INC100380,EMP1027,Jerome Cooley,Sales,New York,USA,Critical,In Progress,Change,Email,Network Team,ServiceNow,IBM,2025-08-23,2025-08-24,Resolved,Sometimes open pay rather clearly.
+INC100381,EMP1054,Kyle Smith,IT,Atlanta,USA,High,Open,Incident,Hardware,Application Team,ServiceNow,Microsoft,2026-03-13,2026-03-17,Resolved,Push save win realize.
+INC100382,EMP1090,Rebecca Mills,Operations,Atlanta,Canada,Medium,Closed,Change,Software,Application Team,Salesforce,IBM,2025-07-27,2025-08-02,Replaced,Resource walk degree plan.
+INC100383,EMP1015,Christopher Lopez,Operations,Atlanta,Canada,Medium,In Progress,Problem,Network,Network Team,SAP,Microsoft,2026-05-11,2026-05-16,Replaced,Since opportunity computer bed reduce ground.
+INC100384,EMP1001,Randall Williamson,IT,Dallas,Canada,Critical,Open,Incident,Software,Application Team,Salesforce,Microsoft,2025-10-24,2025-11-05,User Error,Cause area system coach number short say.
+INC100385,EMP1064,Jeffrey Sullivan,Finance,Seattle,Canada,Medium,Closed,Change,Software,Service Desk,Oracle,Cisco,2026-06-20,2026-06-28,User Error,Suffer nothing decade.
+INC100386,EMP1015,Patrick Weaver,IT,Seattle,USA,High,Closed,Request,Network,Security Team,SAP,Microsoft,2025-10-01,2025-10-13,User Error,Someone child cup.
+INC100387,EMP1028,Jennifer Perez,Finance,New York,Canada,High,Resolved,Problem,Software,Service Desk,SAP,Cisco,2026-06-18,2026-06-28,Reboot,Benefit buy clearly continue your movie.
+INC100388,EMP1092,William Khan,Sales,Dallas,Canada,Low,Resolved,Incident,Network,Security Team,ServiceNow,Dell,2025-10-28,2025-11-10,Replaced,Thing will under central nature middle center.
+INC100389,EMP1076,Amanda Wright,Finance,Atlanta,Canada,Low,Resolved,Problem,Software,Network Team,SAP,Dell,2025-07-27,2025-08-02,Configuration,Many maybe save direction nice.
+INC100390,EMP1049,Matthew Riggs,Procurement,Chicago,Canada,Critical,In Progress,Incident,Email,Security Team,Salesforce,IBM,2026-05-05,2026-05-07,Reboot,Fact story majority present others.
+INC100391,EMP1015,Eric Brown,Finance,Atlanta,Mexico,Medium,Open,Change,Network,Network Team,ServiceNow,Cisco,2025-09-13,2025-09-27,Reboot,Often college bring sure.
+INC100392,EMP1034,Catherine Hudson,Operations,Atlanta,USA,Medium,Resolved,Request,Email,Service Desk,Salesforce,Cisco,2026-05-09,2026-05-11,Configuration,Born unit church course boy learn heavy.
+INC100393,EMP1030,Howard Carter,Finance,Atlanta,Canada,Medium,Resolved,Request,Network,Network Team,ServiceNow,Cisco,2025-12-22,2025-12-30,Reboot,Officer right nor top loss brother.
+INC100394,EMP9999,Peter White,Operations,Seattle,Canada,Critical,Open,Change,Network,Service Desk,Oracle,Microsoft,2026-01-21,2026-01-23,Replaced,Score evening deep learn whatever toward.
+INC100395,EMP1034,Lauren Bailey,Finance,New York,Mexico,Low,Open,Incident,Hardware,Security Team,ServiceNow,IBM,2026-03-27,2026-04-06,Configuration,Wait state firm.
+INC100396,EMP1027,Alicia Mercado,Procurement,Seattle,Canada,Critical,Open,Incident,Software,Security Team,Salesforce,Cisco,2025-12-14,2025-12-20,Reboot,Case popular once move onto give wait.
+INC100397,EMP1027,Kendra Hicks,HR,Seattle,Mexico,Medium,Resolved,Problem,Network,Service Desk,ServiceNow,Microsoft,2026-01-06,2026-01-14,Reboot,Song tend financial until color hot discover material.
+INC100398,EMP1059,Sandy Perkins,FIN,Atlanta,Canada,Medium,Open,Change,Email,Application Team,Oracle,IBM,2026-06-04,2026-06-10,Configuration,Himself plant country.
+INC100399,EMP1099,Tyler Bowman,Sales,Atlanta,USA,Low,Open,Request,Software,Security Team,ServiceNow,Dell,2025-10-18,2025-10-26,User Error,Road not provide father.
+INC100400,EMP1099,Sheena White,IT,Atlanta,Mexico,Critical,In Progress,Problem,Software,Network Team,ServiceNow,Dell,2026-02-28,2026-03-09,Resolved,Practice sell single rate consumer.
+INC100401,EMP1078,Robert Zimmerman,Procurement,Atlanta,USA,High,Closed,Incident,Network,Network Team,Salesforce,Cisco,2025-09-18,2025-10-03,Configuration,Carry home case main number.
+INC100402,EMP1077,Tammy Carroll,Sales,Seattle,Canada,Medium,Resolved,Change,Network,Service Desk,Oracle,Microsoft,2026-07-06,2026-07-10,User Error,Mr shake center together senior ability.
+INC100403,EMP1074,Olivia Graham,Sales,Chicago,Mexico,Medium,Open,Problem,Network,Security Team,Oracle,Cisco,2025-10-22,2025-11-02,Replaced,President including social try no what budget.
+INC100404,EMP1020,Sean Lopez,IT,Atlanta,Mexico,Low,Open,Change,Email,Application Team,SAP,Dell,2026-07-06,2026-07-16,Resolved,Policy church thus true.
+INC100405,EMP1039,Jennifer Cook,HR,Chicago,Mexico,Low,Resolved,Change,Software,Application Team,Salesforce,Microsoft,2025-07-20,2025-07-29,Replaced,Against doctor close campaign seat.
+INC100406,EMP1043,Bryan Ali,HR,Seattle,Mexico,High,Closed,Problem,Email,Application Team,Oracle,Cisco,2025-10-29,2025-11-05,User Error,Sport want law fund learn successful.
+INC100407,EMP1047,Judith Mendez,Sales,New York,Mexico,High,In Progress,Incident,Hardware,Application Team,SAP,IBM,2025-09-15,2025-09-29,Resolved,Air who we against or enter would still.
+INC100408,EMP1055,Victoria Anderson,Operations,Dallas,USA,Medium,Closed,Problem,Email,Network Team,Salesforce,Microsoft,2026-01-19,2026-01-30,Resolved,Rise your interest goal shoulder.
+INC100409,EMP1054,Sarah Pham,it,Atlanta,Canada,Critical,Closed,Request,Software,Network Team,Salesforce,Cisco,2026-02-19,2026-02-26,Reboot,Guess base stop meeting owner conference sister home.
+INC100410,EMP1062,Jessica Lane,HR,Atlanta,Mexico,Medium,In Progress,Incident,Email,Application Team,SAP,Cisco,2026-05-24,2026-06-06,Configuration,Factor north material protect would never.
+INC100411,EMP1071,Raymond Dunn,IT,Dallas,Canada,Critical,In Progress,Incident,Hardware,Application Team,ServiceNow,Microsoft,2025-09-26,2025-10-05,Replaced,Himself peace white American.
+INC100412,EMP1081,Juan Hernandez,IT,Dallas,Mexico,Low,Resolved,Request,Email, Security Team ,SAP,Microsoft,2026-05-25,2026-06-06,Reboot,Huge effect try why ever.
+INC100413,EMP1006,Gabriella Ross,HR,Chicago,Mexico,Medium,In Progress,Change,Software,Security Team,Oracle,Cisco,2026-01-05,2026-01-08,Resolved,Anyone beyond realize drive early between a.
+INC100414,EMP1056,Kyle Bartlett,Procurement,Seattle,USA,Low,Open,Problem,Software,Service Desk,Oracle,Microsoft,2025-10-19,2025-11-01,Configuration,Finish hold person throw.
+INC100415,EMP1037,Theresa Stanley,HR,Dallas,USA,Critical,In Progress,Incident,Network,Application Team,ServiceNow,Cisco,2025-12-01,2025-12-03,Replaced,After game ahead amount responsibility remember job movie.
+INC100416,EMP1012,Andrew Johnston,Operations,Dallas,Canada,Critical,Closed,Request,Email,Service Desk,SAP,Dell,2025-10-17,2025-10-26,Replaced,Third quality animal.
+INC100417,EMP1072,Virginia Rodriguez,Operations,Chicago,USA,Critical,In Progress,Incident,Network,Application Team,SAP,Cisco,2026-07-02,2026-07-03,Replaced,Small system visit number benefit visit.
+INC100418,EMP1019,Sarah Medina,Finance,Chicago,USA,High,Resolved,Problem,Email,Network Team,SAP,Microsoft,2025-08-20,2025-08-29,Reboot,Decide receive toward.
+INC100419,EMP1017,Charlotte Stewart,Procurement,Chicago,Canada,Critical,Closed,Change,Network,Application Team,ServiceNow,Cisco,2026-03-06,2026-03-20,Configuration,Despite sing respond school ahead wait.
+INC100420,EMP1007,David Walker,IT,New York,Canada,Medium,Resolved,Request,Network,Service Desk,ServiceNow,IBM,2026-01-29,2026-02-12,Reboot,Our issue exactly.
+INC100421,EMP1002,Anthony Cardenas,IT,New York,Mexico,Low,Resolved,Request,Hardware,Network Team,ServiceNow,Cisco,2026-03-13,2026-03-26,Configuration,Low impact century good later pretty life truth.
+INC100422,EMP1050,Lori Brown,Operations,Atlanta,Canada,Medium,In Progress,Change,Network,Service Desk,Salesforce,Dell,2026-05-01,2026-05-14,User Error,Party contain impact.
+INC100423,EMP1078,Anna Edwards,HR,Atlanta,USA,Low,In Progress,Problem,Network,Security Team,Salesforce,Microsoft,2026-01-23,2026-02-06,Configuration,Direction size provide bed.
+INC100424,EMP1098,Dawn Shah,Sales,Dallas,Canada,High,Closed,Request,Hardware,Service Desk,ServiceNow,Dell,2025-11-26,2025-12-05,Replaced,Build suddenly college standard create study.
+INC100425,EMP1010,David Novak,Sales,Chicago,Mexico,Critical,Closed,Change,Software,Security Team,SAP,Microsoft,2025-11-04,2025-11-19,Replaced,Far blood follow assume.
+INC100426,EMP1047,Angelica Dixon,FIN,New York,Mexico,Medium,Closed,Request,Software,Security Team,SAP,Dell,2025-09-04,2025-09-18,Reboot,Military carry public eat feel.
+INC100427,EMP1005,Rachel Lyons,Finance,New York,Mexico,Critical,Closed,Change,Hardware,Application Team,Salesforce,Dell,2025-12-12,2025-12-21,Configuration,Relationship operation either method no.
+INC100428,EMP1087,Michael Terry,IT,New York,Canada,Critical,Closed,Change,Software,Security Team,ServiceNow,Dell,2025-12-02,2025-12-04,Replaced,Across little early remember change free national.
+INC100429,EMP1009,Rebecca Haas,Operations,Chicago,Mexico,High,Open,Incident,Network,Application Team,Oracle,Cisco,2026-03-30,2026-04-01,Configuration,Idea nothing dark wrong view arm onto.
+INC100430,EMP1093,Michael Rodriguez,Finance,Seattle,USA,Medium,Open,Request,Hardware,Security Team,Salesforce,Microsoft,2026-02-21,2026-02-22,Replaced,Of push agency while support wish.
+INC100431,EMP1051,Alexandra Johnson,it,Chicago,Canada,Medium,Resolved,Change,Hardware,Network Team,Oracle,Microsoft,2025-09-17,2025-10-02,Resolved,Figure who after show sure why from.
+INC100432,EMP1059,Ricardo Dodson,HR,Atlanta,Mexico,Medium,In Progress,Change,Software,Service Desk,SAP,IBM,2026-05-13,2026-05-28,Replaced,Around who result live.
+INC100433,EMP1065,Megan Holloway,IT,Seattle,Canada,High,Resolved,Request,Email,Application Team,Salesforce,Cisco,2025-10-30,2025-11-03,Configuration,Or personal pick firm message yet.
+INC100434,EMP1032,Adrian Jackson,Sales,Dallas,Canada,High,Closed,Incident,Hardware,Service Desk,SAP,Dell,2026-06-08,2026-06-21,Replaced,Sort fear force affect expect tough at.
+INC100435,EMP1013,Jonathan Mendoza,IT,Seattle,USA,Critical,In Progress,Problem,Email,Application Team,Oracle,Microsoft,2025-07-13,2025-07-20,Resolved,Year think now pay.
+INC100436,EMP1090,Timothy Hurst,Procurement,New York,USA,Low,Resolved,Problem,Software,Application Team,SAP,Microsoft,2025-07-16,2025-07-30,Resolved,Water tax can similar account.
+INC100437,EMP9999,Shelley Tran,Finance,Atlanta,USA,Medium,Closed,Change,Network,Service Desk,SAP,Microsoft,2026-03-11,2026-03-22,Configuration,Other seat government allow radio police.
+INC100438,EMP1043,Sara Burns,Sales,Chicago,Canada,Critical,Open,Change,Network,Security Team,Oracle,Microsoft,2026-04-20,2026-04-26,Resolved,Dinner movie person factor support car what.
+INC100439,EMP1031,James Wells,Finance,Atlanta,Canada,Critical,Closed,Problem,Email,Network Team,Salesforce,Microsoft,2025-09-28,2025-10-08,User Error,Out little political Mr.
+INC100440,EMP1044,David Proctor,HR,Atlanta,Mexico,Critical,Open,Problem,Email,Security Team,ServiceNow,Cisco,2026-01-08,2026-01-23,Reboot,Wish manage kind can.
+INC100441,EMP1054,Eric Lawrence,Operations,Dallas,Mexico,Low,In Progress,Problem,Email,Service Desk,SAP,Microsoft,2026-06-02,2026-06-06,Configuration,Our owner there computer southern identify back day.
+INC100442,EMP1055,Tyler Johnson,Procurement,New York,USA,High,Resolved,Problem,Software,Service Desk,Oracle,Cisco,2025-10-21,2025-10-28,Reboot,Wrong speak call our make work style.
+INC100443,EMP1086,Deborah Fletcher MD,IT,Atlanta,Canada,Critical,In Progress,Incident,Hardware,Network Team,Salesforce,Microsoft,2026-04-15,2026-04-30,User Error,Always modern stuff focus everybody key month question.
+INC100444,EMP1050,Joseph Oliver,Sales,Dallas,USA,High,Closed,Incident,Network,Application Team,Oracle,Cisco,2025-08-07,2025-08-11,User Error,Before probably lay church reason.
+INC100445,EMP1074,Ryan Wright,Finance,Atlanta,Canada,High,In Progress,Incident,Email,Service Desk,ServiceNow,Microsoft,2025-11-03,2025-11-12,Replaced,Woman customer thus future.
+INC100446,EMP1015,Tracy Martinez,Finance,Dallas,Canada,High,Resolved,Request,Software,Network Team,Oracle,Cisco,2025-11-23,2025-12-01,Configuration,History commercial sound understand.
+INC100447,EMP1065,Mr. Christopher Lewis IV,Procurement,Atlanta,Canada,medium,In Progress,Request,Software,Application Team,ServiceNow,IBM,2025-11-22,2025-12-03,Reboot,Method large soldier everyone author herself important.
+INC100448,EMP1004,Ashley Salazar,IT,Chicago,Mexico,Low,Resolved,Incident,Hardware,Network Team,SAP,Microsoft,2026-01-11,2026-01-17,Resolved,Together much truth party.
+INC100449,EMP1079,Hector Flowers,Finance,Dallas,Mexico,Low,In Progress,Incident,Network,Service Desk,Salesforce,Dell,2025-10-07,2025-10-20,User Error,War meet week up.
+INC100450,EMP1030,Kenneth Lyons,Finance,Dallas,USA,Medium,In Progress,Change,Network,Service Desk,ServiceNow,Microsoft,2025-09-10,2025-09-25,Replaced,Newspaper agency hair shake.
+INC100451,EMP1051,Alexis Collins,HR,Dallas,Canada,Critical,Resolved,Change,Hardware,Service Desk,ServiceNow,Cisco,2025-07-22,2025-07-20,Replaced,Remember spend talk writer.
+INC100452,EMP1080,Nathan Simmons,HR,Seattle,Canada,Medium,In Progress,Incident,Software,Service Desk,ServiceNow,IBM,2025-09-06,2025-09-04,User Error,Last research most us may.
+INC100453,EMP1000,Rhonda Smith,IT,Atlanta,Mexico,Low,Closed,Change,Software,Service Desk,ServiceNow,Cisco,2026-06-28,2026-07-01,Configuration,Area another hundred.
+INC100454,EMP1010,Emily Smith,IT,Dallas,Canada,Medium,In Progress,Problem,Email,Application Team,ServiceNow,Dell,2026-01-15,2026-01-20,User Error,Ability thing determine ok sister.
+INC100455,EMP1000,Christopher Fischer,Operations,Chicago,Canada,Critical,In Progress,Incident,Email, Security Team ,SAP,Cisco,2026-04-22,2026-04-30,Configuration,Enough name message do throughout among.
+INC100456,EMP1049,Tina Allison,Finance,Atlanta,Canada,Low,Resolved,Request,Network,Service Desk,Salesforce,IBM,2025-12-05,2025-12-08,Resolved,Physical bring police include over full.
+INC100457,EMP1080,Elizabeth Huynh,Sales,Chicago,Mexico,Medium,Open,Incident,Network,Application Team,Oracle,Dell,2026-07-08,2026-07-10,Replaced,People might strong would officer soldier.
+INC100458,EMP1043,Shannon Watts,IT,Chicago,Canada,Critical,Resolved,Incident,Network,Network Team,Oracle,Dell,2025-11-21,2025-11-24,Configuration,Million fine popular year keep mean party.
+INC100459,EMP1065,Jon Smith,HR,Atlanta,Canada,Medium,Resolved,Change,Software,Application Team,ServiceNow,Dell,2025-10-19,2025-11-02,Reboot,Wall poor painting able.
+INC100460,EMP1095,Justin Diaz,IT,New York,USA,Critical,Resolved,Request,Email,Network Team,ServiceNow,Cisco,2026-06-29,2026-07-05,Reboot,Question again purpose set.
+INC100461,EMP1093,David Carter,Operations,Chicago,Mexico,Low,In Progress,Problem,Hardware,Service Desk,ServiceNow,Microsoft,2025-08-24,2025-08-27,User Error,Color game one.
+INC100462,EMP1018,Andrew Sims,Finance,Chicago,Canada,Critical,Resolved,Request,Software,Application Team,SAP,IBM,2025-12-22,2026-01-05,Reboot,Them give able century alone.
+INC100463,EMP9999,Zachary Rose,Sales,Atlanta,USA,Critical,In Progress,Request,Network,Network Team,SAP,Cisco,2026-05-02,2026-05-09,Reboot,I tree project sea.
+INC100464,EMP1090,Donald Steele,HR,Dallas,Mexico,High,Open,Request,Software,Service Desk,Salesforce,Microsoft,2025-08-04,2025-08-06,Resolved,Large new among would.
+INC100465,EMP1083,Rebecca Hunt,Finance,Atlanta,Mexico,High,Closed,Incident,Software,Service Desk,SAP,Microsoft,2026-02-02,2026-02-08,User Error,Wait middle task read sea as learn.
+INC100466,EMP1055,Andrew Garcia,IT,Seattle,Canada,Critical,Closed,Change,Hardware,Service Desk,SAP,Dell,2026-06-07,2026-06-12,Resolved,Response war listen into also available free.
+INC100467,EMP1058,Kirsten Green,HR,Chicago,USA,Low,In Progress,Incident,Email,Network Team,Oracle,Cisco,2026-03-30,2026-04-11,Resolved,Former even property home defense interview firm.
+INC100468,EMP1088,Mark Gibbs,IT,New York,USA,High,Resolved,Problem,Network,Network Team,SAP,Dell,2026-05-21,2026-05-23,Reboot,This expect science our car ask.
+INC100469,EMP1093,Christopher Pena,Operations,Dallas,USA,High,In Progress,Problem,Software,Network Team,Salesforce,Microsoft,2025-11-29,2025-12-12,Resolved,Whose tax sell fill perhaps.
+INC100470,EMP1049,Sarah Wilson,Finance,Atlanta,USA,Critical,Open,Change,Network,Security Team,SAP,Microsoft,2025-09-18,2025-09-23,Configuration,Leave around law cover.
+INC100471,EMP1058,Michael Buckley,IT,Dallas,USA,Critical,Closed,Incident,Email,Security Team,Oracle,Dell,2026-04-29,2026-05-03,Reboot,Imagine court prevent.
+INC100472,EMP1025,Cheryl Goodman,Sales,Chicago,USA,Low,Open,Change,Hardware,Network Team,Oracle,Cisco,2025-10-25,2025-11-02,User Error,Economy matter word marriage.
+INC100473,EMP1081,Richard Brown,IT,New York,USA,Critical,Open,Incident,Network,Network Team,Salesforce,IBM,2025-07-25,2025-08-09,Resolved,Defense stand management new ask customer.
+INC100474,EMP1084,Mark Silva,HR,Seattle,Canada,Critical,Closed,Request,Software,Network Team,Salesforce,Cisco,2025-09-28,2025-10-08,Resolved,Senior say choice seat himself soon.
+INC100475,EMP1000,Ann Hall,HR,Chicago,Mexico,Low,Closed,Request,Hardware,Network Team,SAP,IBM,2026-02-25,2026-02-28,Replaced,Discuss hospital fish anything evening we.
+INC100476,EMP1099,Nicole White,Finance,Atlanta,Canada,Low,Open,Change,Network,Security Team,ServiceNow,Cisco,2026-05-04,2026-05-07,User Error,Class camera general show call.
+INC100477,EMP1090,Richard Brown,Procurement,Seattle,Canada,Medium,Resolved,Problem,Hardware,Service Desk,Oracle,Microsoft,2026-06-11,2026-06-13,Configuration,Education necessary south try provide.
+INC100478,EMP9999,Miguel Hernandez,Procurement,Dallas,USA,Low,Closed,Problem,Software,Application Team,Oracle,Dell,2026-04-18,2026-04-20,Configuration,Most read between before drop message.
+INC100479,EMP1077,Heather Werner,HR,Seattle,USA,High,Resolved,Request,Software, Service Desk ,SAP,Dell,2025-09-22,2025-10-02,Replaced,Improve study huge analysis bit and.
+INC100480,,Joshua Sanders,Operations,Seattle,USA,Medium,Open,Incident,Network,Application Team,ServiceNow,IBM,2026-07-05,2026-07-18,Resolved,As nation simple career position never.
+INC100481,EMP1015,Timothy Bishop,Finance,Dallas,USA,Low,Closed,Problem,Hardware,Service Desk,SAP,Dell,2025-12-05,2025-12-12,Replaced,Town bit relate foot table part any.
+INC100482,EMP1068,Julie Torres,HR,Seattle,Canada,High,In Progress,Problem,Email,Service Desk,Oracle,Cisco,2026-04-19,2026-04-28,Reboot,Available ball heart beyond rate grow order.
+INC100483,EMP1069,Suzanne Crawford,Finance,Dallas,USA,High,In Progress,Change,Network,Security Team,Salesforce,Dell,2026-02-28,2026-03-11,Replaced,Statement mouth house hit learn recently deal.
+INC100484,EMP1034,David James,Operations,Seattle,Mexico,Critical,Resolved,Request,Network,Network Team,SAP,IBM,2025-10-03,2025-10-01,Replaced,Agree law bad rest woman machine.
+INC100485,EMP1046,Katherine Davis,Procurement,Seattle,Canada,Low,Open,Incident,Software,Service Desk,Oracle,Cisco,2026-03-14,2026-03-29,Reboot,Campaign pressure clear beautiful.
+INC100486,EMP1095,Fred Conner,IT,Atlanta,Mexico,Medium,Open,Incident,Network,Security Team,Oracle,Cisco,2026-04-04,2026-04-10,Reboot,Same other director far.
+INC100487,EMP1012,Susan Barrett,Finance,Seattle,Mexico,High,Open,Request,Hardware,Service Desk,SAP,IBM,2025-11-29,2025-11-30,User Error,Stock best ground design vote serious stand return.
+INC100488,EMP1000,Bobby Kelly,it,Dallas,Canada,Critical,In Progress,Problem,Email,Service Desk,Salesforce,Cisco,2026-03-22,2026-03-26,User Error,Region commercial eye tree draw.
+INC100489,EMP1015,Kevin Castillo,Finance,Seattle,Canada,High,In Progress,Request,Hardware,Application Team,SAP,Cisco,2026-03-14,2026-03-20,Reboot,Foot reflect even career.
+INC100490,EMP1002,Jacob Reed,Sales,Chicago,USA,Low,Resolved,Problem,Email,Application Team,ServiceNow,Dell,2026-03-06,2026-03-19,Reboot,Husband mind establish short opportunity main clearly can.
+INC100491,EMP1021,Jonathan Meyer,Procurement,Dallas,Canada,Medium,Closed,Request,Hardware,Network Team,Salesforce,Cisco,2026-01-23,2026-01-24,User Error,No bed character they.
+INC100492,EMP1030,Karla Anderson,IT,Chicago,Canada,Low,Resolved,Change,Hardware,Application Team,SAP,Cisco,2025-11-28,2025-12-11,Reboot,Career whatever call wait explain.
+INC100493,EMP1098,Amanda Garcia,Operations,Seattle,USA,Critical,Closed,Change,Network,Network Team,Oracle,Microsoft,2025-12-04,2025-12-07,Reboot,Speech home rise practice.
+INC100494,EMP1014,Denise Martinez,Sales,Seattle,Canada,Critical,Closed,Incident,Hardware,Security Team,ServiceNow,IBM,2025-09-19,2025-09-20,Replaced,How information share road.
+INC100495,EMP1076,Stephen Hampton,Operations,Seattle,Canada,Medium,Closed,Incident,Software,Application Team,SAP,IBM,2026-05-27,2026-05-28,Reboot,Family if perform control.
+INC100496,EMP1041,Christine Green,HR,Chicago,Canada,Critical,Closed,Request,Hardware,Service Desk,Oracle,Dell,2025-07-18,2025-07-19,Resolved,Design over early career teacher.
+INC100497,EMP1024,Taylor Ryan,Finance,Dallas,Mexico,High,In Progress,Problem,Network,Service Desk,ServiceNow,Dell,2025-10-25,2025-10-31,Reboot,Area race worker forward century order card.
+INC100498,EMP1058,Michelle Mcintyre,IT,Chicago,USA,High,In Progress,Change,Network,Network Team,ServiceNow,Dell,2025-08-25,2025-09-08,Reboot,Their positive read billion send big policy.
+INC100499,EMP1060,Rebekah Sanchez,Finance,Seattle,Mexico,Medium,Closed,Problem,Hardware,Application Team,ServiceNow,IBM,2025-11-17,2025-11-19,Replaced,Store must control glass.
+INC100361,EMP1084,Jessica Coleman,Operations,Seattle,USA,Critical,Open,Change,Hardware,Application Team,ServiceNow,IBM,2026-05-10,2026-05-11,Replaced,Gas walk student our order newspaper.
+INC100073,EMP1059,Jose Miller,Procurement,Atlanta,Canada,Critical,Open,Incident,Software,Security Team,ServiceNow,Dell,2026-03-03,2026-03-04,Resolved,Summer prepare future area most.
+INC100374,EMP1024,Brenda White,Sales,Chicago,Mexico,Medium,Closed,Incident,Email,Security Team,Oracle,Cisco,2026-01-20,2026-01-25,Configuration,Together less sign.
+INC100155,EMP1005,Brianna Hernandez,HR,Dallas,Mexico,Medium,Open,Incident,Network,Application Team,Oracle,IBM,2025-09-11,2025-09-25,Resolved,Voice machine meet suggest such kind too.
+INC100104,EMP1033,Amy Duran,Procurement,New York,Canada,Medium,Closed,Request,Hardware,Application Team,Oracle,Dell,2025-07-19,2025-07-28,Configuration,It water develop deal someone.
+INC100394,EMP1053,Peter White,Operations,Seattle,Canada,Critical,Open,Change,Network,Service Desk,Oracle,Microsoft,2026-01-21,2026-01-23,Replaced,Score evening deep learn whatever toward.
+INC100377,EMP1000,Melissa Price,Operations,Seattle,Mexico,High,In Progress,Incident,Software,Network Team,Oracle,Dell,2026-04-07,2026-04-16,User Error,Strong PM agent.
+INC100124,EMP1034,Elizabeth Dunn,Sales,New York,Canada,Medium,Open,Incident,Email,Service Desk,SAP,Microsoft,2025-11-13,2025-11-15,Replaced,Responsibility discuss every.
+INC100068,EMP1070,Nicole Hayes,HR,Dallas,Mexico,Critical,Closed,Change,Email,Security Team,Oracle,Cisco,2025-08-18,2025-08-22,Replaced,Public catch contain heavy grow position responsibility industry.
+INC100450,,Kenneth Lyons,FIN,Dallas,USA,Medium,In Progress,Change,Network,Service Desk,ServiceNow,Microsoft,2025-09-10,2025-09-25,Replaced,Newspaper agency hair shake.
+INC100009,EMP1051,Kristen Parker,IT,Chicago,Canada,Low,In Progress,Incident,Hardware,Service Desk,Oracle,IBM,2026-02-20,2026-02-22,Replaced,Cut discover up.
+INC100194,EMP1011,Jordan Fischer,IT,Dallas,USA,Critical,In Progress,Problem,Email,Application Team,Oracle,Dell,2026-05-26,2026-05-31,Replaced,Read wind hit teach.
+INC100406,EMP1043,Bryan Ali,HR,Seattle,Mexico,High,Closed,Problem,Email,Application Team,Oracle,Cisco,2025-10-29,2025-11-05,User Error,Sport want law fund learn successful.
+INC100084,EMP1073,Brandy Delacruz,IT,Atlanta,Mexico,High,Open,Change,Network,Network Team,Oracle,Cisco,2025-07-15,2025-07-25,Reboot,Agree arm sister.
+INC100371,EMP1052,Melissa Kline,Procurement,Chicago,USA,Critical,Closed,Incident,Hardware,Service Desk,Oracle,Microsoft,2026-05-14,2026-05-22,User Error,Table nice road over central because.
+INC100388,EMP1092,William Khan,Sales,Dallas,Canada,Low,Resolved,Incident,Network,Security Team,ServiceNow,Dell,2025-10-28,2025-11-10,Replaced,Thing will under central nature middle center.
+INC100495,EMP1076,Stephen Hampton,Operations,Seattle,Canada,Medium,Closed,Incident,Software,Application Team,SAP,IBM,2026-05-27,2026-05-28,Reboot,Family if perform control.
+INC100030,EMP1034,Alisha Gonzalez,IT,Dallas,Canada,High,In Progress,Request,Network,Application Team,Oracle,Microsoft,2026-02-26,2026-03-01,Replaced,Plant stock pick population woman it consumer.
+INC100316,EMP1001,William Hughes,Finance,Chicago,Mexico,Medium,Resolved,Incident,Software, Application Team ,Salesforce,Cisco,2025-11-06,2025-11-13,Reboot,Stage continue yes air else loss.
+INC100408,EMP1055,Victoria Anderson,Operations,Dallas,USA,Medium,Closed,Problem,Email,Network Team,Salesforce,Microsoft,2026-01-19,2026-01-30,Resolved,Rise your interest goal shoulder.

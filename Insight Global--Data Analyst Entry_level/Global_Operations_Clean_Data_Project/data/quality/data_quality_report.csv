@@ -1,0 +1,12 @@
+Quality Check,Count
+Missing Values,15.0
+Duplicate Rows,14.0
+Duplicate Ticket Numbers,20.0
+Invalid Departments,20.0
+Invalid Priorities,15.0
+Invalid Status,0.0
+Invalid Countries,0.0
+Invalid Employee IDs,10.0
+Invalid Dates,10.0
+Assignment Groups with Extra Spaces,20.0
+Overall Data Quality Score (%),98.6

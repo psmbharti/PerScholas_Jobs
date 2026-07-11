@@ -1,0 +1,8 @@
+Test Case,Expected,Actual,Status
+Ticket Number Unique,No Duplicate Tickets,0,PASS
+Employee ID Exists,All IDs exist in Employee Master,0,PASS
+Required Fields Complete,No Missing Values,0,PASS
+Department Standardization,Valid Department,0,PASS
+Priority Validation,Approved Priority Values,0,PASS
+Status Validation,Approved Status Values,0,PASS
+Date Sequence Validation,Closed Date >= Created Date,0,PASS

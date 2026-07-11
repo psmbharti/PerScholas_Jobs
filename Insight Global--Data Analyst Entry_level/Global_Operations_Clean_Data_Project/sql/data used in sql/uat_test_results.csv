@@ -1,0 +1,8 @@
+Test Case ID,Test Scenario,Expected Result,Actual Result,StatusR
+UAT001,Validate Ticket Number uniqueness,No duplicate ticket numbers,0,PASS
+UAT002,Employee IDs exist in HR Master,All Employee IDs valid,0,PASS
+UAT003,Department follows governance standard,Approved departments only,0,PASS
+UAT004,Priority standardization,Only approved priority values,0,PASS
+UAT005,Status workflow validation,Approved status lifecycle,0,PASS
+UAT006,Ticket closure date validation,Closed date after created date,0,PASS
+UAT007,Required operational fields,No missing mandatory fields,0,PASS

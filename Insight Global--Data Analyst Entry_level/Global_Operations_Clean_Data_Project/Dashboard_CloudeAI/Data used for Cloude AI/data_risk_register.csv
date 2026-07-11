@@ -1,0 +1,6 @@
+Risk ID,Risk Category,Risk Description,Impact,Severity,Root Cause,Mitigation Plan,Owner
+R001,Data Quality,Duplicate operational tickets may exist,"Incorrect reporting, duplicate workload, inaccurate KPIs",Low,Missing uniqueness validation during data entry,Implement ticket number uniqueness checks,ServiceNow Administrator
+R002,People & Data,Tickets linked to invalid employee records,Unable to identify request owner,Low,Employee master synchronization issues,Daily HR master data reconciliation,HR Data Owner
+R003,Data Governance,Department values inconsistent across systems,Incorrect department reporting and analytics,Low,Lack of standardized reference data,Use department master data governance,Data Governance Team
+R004,Process,Incorrect ticket lifecycle status,Incorrect SLA and operational reporting,Medium,Users selecting incorrect workflow values,Restrict status values using workflow rules,IT Operations
+R005,Systems,Multiple systems create inconsistent operational data,Data mismatch between platforms,Medium,Lack of integrated data flow,Create automated data synchronization,Enterprise Architecture

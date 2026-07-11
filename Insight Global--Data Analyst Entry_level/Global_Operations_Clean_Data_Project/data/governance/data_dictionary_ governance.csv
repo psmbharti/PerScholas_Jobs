@@ -1,0 +1,23 @@
+Column Name,Data Type,Business Definition,Source System,Validation Rule,Data Owner
+Ticket Number,object,Unique identifier assigned to each operational ticket,ServiceNow,Must be unique and cannot be null,IT Operations
+Employee ID,object,Unique employee identifier associated with ticket,HR Master System,Must exist in Employee Master,Human Resources
+Employee Name,object,Employee who submitted the request,HR Master System,Required field,Human Resources
+Department,object,Business department associated with employee,HR Master System,Must match approved department master,HR Governance
+Location,object,Mapped or standardized operational attribute,ServiceNow,Follow governance standards,Global Operations
+Country,object,Mapped or standardized operational attribute,ServiceNow,Follow governance standards,Global Operations
+Priority,object,Business impact level of operational ticket,ServiceNow,"Allowed values: LOW, MEDIUM, HIGH, CRITICAL",IT Service Management
+Status,object,Current lifecycle status of ticket,ServiceNow,Must follow approved workflow states,IT Operations
+Category,object,High-level classification of ticket,ServiceNow,Must use approved category list,IT Operations
+Subcategory,object,Mapped or standardized operational attribute,ServiceNow,Follow governance standards,Global Operations
+Assignment Group,object,Support team responsible for resolution,ServiceNow,Must match support group master,Service Management
+System,object,Application or platform impacted,Application Inventory,Must match application catalog,Application Owners
+Vendor,object,External technology provider,Vendor Management,Must match approved vendor list,Procurement
+Created Date,object,Date ticket was created,ServiceNow,Valid date format,IT Operations
+Closed Date,object,Date ticket was resolved,ServiceNow,Must be greater than Created Date,IT Operations
+Resolution Code,object,Method used to resolve ticket,ServiceNow,Must use approved resolution values,IT Operations
+Comments,object,Additional ticket notes and resolution details,ServiceNow,Text field,IT Operations
+Department_Standard,object,Mapped or standardized operational attribute,ServiceNow,Follow governance standards,Global Operations
+Priority_Standard,object,Mapped or standardized operational attribute,ServiceNow,Follow governance standards,Global Operations
+Status_Standard,object,Mapped or standardized operational attribute,ServiceNow,Follow governance standards,Global Operations
+Country_Standard,object,Mapped or standardized operational attribute,ServiceNow,Follow governance standards,Global Operations
+System_Category,object,Mapped or standardized operational attribute,ServiceNow,Follow governance standards,Global Operations

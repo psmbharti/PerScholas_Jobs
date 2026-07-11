@@ -1,0 +1,501 @@
+Original_Department,Standard_Department,Original_Priority,Standard_Priority,Original_Status,Standard_Status
+Finance,Finance,Medium,MEDIUM,Resolved,RESOLVED
+Operations,Operations,High,HIGH,In Progress,WORKING
+Procurement,Procurement,Critical,CRITICAL,In Progress,WORKING
+Finance,Finance,Medium,MEDIUM,Closed,CLOSED
+Procurement,Procurement,Critical,CRITICAL,Resolved,RESOLVED
+Procurement,Procurement,High,HIGH,In Progress,WORKING
+Operations,Operations,Critical,CRITICAL,Closed,CLOSED
+HR,Human Resources,Medium,MEDIUM,Closed,CLOSED
+Operations,Operations,Medium,MEDIUM,Resolved,RESOLVED
+IT,Information Technology,Low,LOW,In Progress,WORKING
+Finance,Finance,Low,LOW,Resolved,RESOLVED
+Finance,Finance,High,HIGH,Open,NEW
+HR,Human Resources,Critical,CRITICAL,In Progress,WORKING
+IT,Information Technology,Low,LOW,Open,NEW
+HR,Human Resources,Medium,MEDIUM,Open,NEW
+HR,Human Resources,Critical,CRITICAL,Resolved,RESOLVED
+Finance,Finance,Medium,MEDIUM,Resolved,RESOLVED
+Finance,Finance,Low,LOW,Open,NEW
+HR,Human Resources,High,HIGH,Closed,CLOSED
+HR,Human Resources,Low,LOW,Open,NEW
+Operations,Operations,Critical,CRITICAL,Closed,CLOSED
+Operations,Operations,High,HIGH,In Progress,WORKING
+IT,Information Technology,High,HIGH,Open,NEW
+Procurement,Procurement,Critical,CRITICAL,Resolved,RESOLVED
+IT,Information Technology,Medium,MEDIUM,In Progress,WORKING
+Sales,Sales,Medium,MEDIUM,Open,NEW
+IT,Information Technology,Critical,CRITICAL,In Progress,WORKING
+HR,Human Resources,Low,LOW,Closed,CLOSED
+HR,Human Resources,Low,LOW,Open,NEW
+IT,Information Technology,Low,LOW,Closed,CLOSED
+IT,Information Technology,High,HIGH,In Progress,WORKING
+Finance,Finance,Low,LOW,Resolved,RESOLVED
+IT,Information Technology,Critical,CRITICAL,Open,NEW
+HR,Human Resources,Low,LOW,Open,NEW
+Sales,Sales,Critical,CRITICAL,Open,NEW
+Finance,Finance,Low,LOW,Resolved,RESOLVED
+Procurement,Procurement,Low,LOW,Open,NEW
+Procurement,Procurement,Low,LOW,Closed,CLOSED
+Operations,Operations,High,HIGH,Resolved,RESOLVED
+Finance,Finance,Critical,CRITICAL,Open,NEW
+Finance,Finance,Low,LOW,Open,NEW
+IT,Information Technology,Medium,MEDIUM,Closed,CLOSED
+Procurement,Procurement,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,Critical,CRITICAL,Open,NEW
+Sales,Sales,Medium,MEDIUM,Resolved,RESOLVED
+IT,Information Technology,Low,LOW,Open,NEW
+Operations,Operations,High,HIGH,Open,NEW
+Finance,Finance,High,HIGH,Open,NEW
+Procurement,Procurement,Critical,CRITICAL,Open,NEW
+HR,Human Resources,Medium,MEDIUM,In Progress,WORKING
+Finance,Finance,Critical,CRITICAL,Open,NEW
+Sales,Sales,Medium,MEDIUM,Open,NEW
+Sales,Sales,High,HIGH,Open,NEW
+Procurement,Procurement,High,HIGH,Resolved,RESOLVED
+Operations,Operations,High,HIGH,In Progress,WORKING
+IT,Information Technology,Critical,CRITICAL,In Progress,WORKING
+IT,Information Technology,Medium,MEDIUM,In Progress,WORKING
+Sales,Sales,Critical,CRITICAL,In Progress,WORKING
+HR,Human Resources,Medium,MEDIUM,Resolved,RESOLVED
+HR,Human Resources,Low,LOW,In Progress,WORKING
+Finance,Finance,Low,LOW,Open,NEW
+Operations,Operations,Medium,MEDIUM,Closed,CLOSED
+Finance,Finance,High,HIGH,Closed,CLOSED
+IT,Information Technology,Medium,MEDIUM,Closed,CLOSED
+Sales,Sales,High,HIGH,In Progress,WORKING
+Sales,Sales,Medium,MEDIUM,Resolved,RESOLVED
+IT,Information Technology,Critical,CRITICAL,In Progress,WORKING
+Sales,Sales,Low,LOW,Resolved,RESOLVED
+HR,Human Resources,Critical,CRITICAL,Closed,CLOSED
+HR,Human Resources,Medium,MEDIUM,Closed,CLOSED
+Operations,Operations,Medium,MEDIUM,Open,NEW
+Finance,Finance,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,Medium,MEDIUM,Resolved,RESOLVED
+Procurement,Procurement,Critical,CRITICAL,Open,NEW
+Sales,Sales,Low,LOW,In Progress,WORKING
+Operations,Operations,High,HIGH,Closed,CLOSED
+IT,Information Technology,Low,LOW,Open,NEW
+Finance,Finance,Critical,CRITICAL,Closed,CLOSED
+Operations,Operations,Low,LOW,Open,NEW
+IT,Information Technology,High,HIGH,Closed,CLOSED
+Operations,Operations,Low,LOW,In Progress,WORKING
+HR,Human Resources,Critical,CRITICAL,Closed,CLOSED
+Sales,Sales,High,HIGH,Open,NEW
+Procurement,Procurement,Low,LOW,Resolved,RESOLVED
+IT,Information Technology,High,HIGH,Open,NEW
+Finance,Finance,Low,LOW,In Progress,WORKING
+Procurement,Procurement,Critical,CRITICAL,Closed,CLOSED
+Finance,Finance,Critical,CRITICAL,Closed,CLOSED
+Finance,Finance,High,HIGH,Closed,CLOSED
+Procurement,Procurement,High,HIGH,Open,NEW
+Operations,Operations,High,HIGH,Open,NEW
+HR,Human Resources,Low,LOW,Closed,CLOSED
+HR,Human Resources,Medium,MEDIUM,In Progress,WORKING
+Finance,Finance,Low,LOW,Closed,CLOSED
+Sales,Sales,Critical,CRITICAL,Open,NEW
+Sales,Sales,Medium,MEDIUM,Open,NEW
+HR,Human Resources,Critical,CRITICAL,Resolved,RESOLVED
+Operations,Operations,Low,LOW,Resolved,RESOLVED
+Sales,Sales,Medium,MEDIUM,Closed,CLOSED
+HR,Human Resources,Low,LOW,In Progress,WORKING
+Operations,Operations,Critical,CRITICAL,In Progress,WORKING
+Procurement,Procurement,High,HIGH,Open,NEW
+Operations,Operations,High,HIGH,Closed,CLOSED
+Operations,Operations,Critical,CRITICAL,Open,NEW
+Procurement,Procurement,Medium,MEDIUM,Closed,CLOSED
+Operations,Operations,High,HIGH,Resolved,RESOLVED
+HR,Human Resources,Low,LOW,Open,NEW
+Sales,Sales,High,HIGH,In Progress,WORKING
+Sales,Sales,Critical,CRITICAL,Resolved,RESOLVED
+IT,Information Technology,Critical,CRITICAL,Resolved,RESOLVED
+HR,Human Resources,Critical,CRITICAL,Resolved,RESOLVED
+Sales,Sales,Critical,CRITICAL,In Progress,WORKING
+HR,Human Resources,Low,LOW,Open,NEW
+IT,Information Technology,Medium,MEDIUM,Resolved,RESOLVED
+Operations,Operations,Medium,MEDIUM,Closed,CLOSED
+HR,Human Resources,High,HIGH,Closed,CLOSED
+Sales,Sales,Low,LOW,Open,NEW
+IT,Information Technology,High,HIGH,Resolved,RESOLVED
+HR,Human Resources,Low,LOW,Open,NEW
+IT,Information Technology,Medium,MEDIUM,Closed,CLOSED
+Sales,Sales,High,HIGH,Resolved,RESOLVED
+Procurement,Procurement,Medium,MEDIUM,Closed,CLOSED
+HR,Human Resources,Low,LOW,Resolved,RESOLVED
+IT,Information Technology,High,HIGH,Resolved,RESOLVED
+Sales,Sales,Medium,MEDIUM,Open,NEW
+HR,Human Resources,Medium,MEDIUM,Closed,CLOSED
+IT,Information Technology,Medium,MEDIUM,Closed,CLOSED
+Finance,Finance,Medium,MEDIUM,Closed,CLOSED
+HR,Human Resources,High,HIGH,In Progress,WORKING
+Operations,Operations,Medium,MEDIUM,Open,NEW
+Finance,Finance,High,HIGH,In Progress,WORKING
+IT,Information Technology,High,HIGH,Closed,CLOSED
+Finance,Finance,Critical,CRITICAL,Closed,CLOSED
+IT,Information Technology,Medium,MEDIUM,Open,NEW
+Finance,Finance,Low,LOW,Open,NEW
+Procurement,Procurement,Medium,MEDIUM,In Progress,WORKING
+HR,Human Resources,Critical,CRITICAL,In Progress,WORKING
+Sales,Sales,Low,LOW,Closed,CLOSED
+HR,Human Resources,High,HIGH,Open,NEW
+Operations,Operations,Low,LOW,Resolved,RESOLVED
+IT,Information Technology,Low,LOW,Resolved,RESOLVED
+Finance,Finance,Low,LOW,In Progress,WORKING
+Sales,Sales,Critical,CRITICAL,Open,NEW
+HR,Human Resources,Medium,MEDIUM,In Progress,WORKING
+HR,Human Resources,Medium,MEDIUM,Closed,CLOSED
+Sales,Sales,Critical,CRITICAL,Closed,CLOSED
+Operations,Operations,High,HIGH,Open,NEW
+HR,Human Resources,Low,LOW,Open,NEW
+HR,Human Resources,High,HIGH,Closed,CLOSED
+Finance,Finance,Medium,MEDIUM,Closed,CLOSED
+Sales,Sales,Medium,MEDIUM,Open,NEW
+HR,Human Resources,Critical,CRITICAL,In Progress,WORKING
+Operations,Operations,Low,LOW,Resolved,RESOLVED
+HR,Human Resources,Critical,CRITICAL,Open,NEW
+Finance,Finance,Critical,CRITICAL,Open,NEW
+HR,Human Resources,Medium,MEDIUM,Open,NEW
+Finance,Finance,Critical,CRITICAL,Open,NEW
+Operations,Operations,Low,LOW,Open,NEW
+Procurement,Procurement,Critical,CRITICAL,In Progress,WORKING
+HR,Human Resources,High,HIGH,Closed,CLOSED
+Finance,Finance,High,HIGH,Open,NEW
+HR,Human Resources,Low,LOW,Closed,CLOSED
+Sales,Sales,Medium,MEDIUM,Open,NEW
+Finance,Finance,Critical,CRITICAL,Closed,CLOSED
+Procurement,Procurement,Critical,CRITICAL,Open,NEW
+Operations,Operations,Critical,CRITICAL,In Progress,WORKING
+IT,Information Technology,Low,LOW,Resolved,RESOLVED
+IT,Information Technology,Low,LOW,Open,NEW
+Procurement,Procurement,High,HIGH,Open,NEW
+Finance,Finance,High,HIGH,Open,NEW
+IT,Information Technology,Medium,MEDIUM,Resolved,RESOLVED
+Finance,Finance,High,HIGH,Resolved,RESOLVED
+Sales,Sales,Medium,MEDIUM,In Progress,WORKING
+Sales,Sales,Critical,CRITICAL,Resolved,RESOLVED
+Sales,Sales,Medium,MEDIUM,Open,NEW
+Finance,Finance,High,HIGH,Open,NEW
+Operations,Operations,Medium,MEDIUM,In Progress,WORKING
+Operations,Operations,Low,LOW,In Progress,WORKING
+Procurement,Procurement,Critical,CRITICAL,Closed,CLOSED
+Procurement,Procurement,Critical,CRITICAL,Resolved,RESOLVED
+Finance,Finance,Low,LOW,Open,NEW
+Procurement,Procurement,Critical,CRITICAL,Resolved,RESOLVED
+HR,Human Resources,Low,LOW,In Progress,WORKING
+Procurement,Procurement,High,HIGH,Closed,CLOSED
+Procurement,Procurement,Low,LOW,Closed,CLOSED
+Sales,Sales,Medium,MEDIUM,Open,NEW
+Finance,Finance,Medium,MEDIUM,Open,NEW
+Operations,Operations,Low,LOW,Closed,CLOSED
+IT,Information Technology,Medium,MEDIUM,Resolved,RESOLVED
+Procurement,Procurement,High,HIGH,Closed,CLOSED
+IT,Information Technology,High,HIGH,In Progress,WORKING
+Procurement,Procurement,Critical,CRITICAL,Resolved,RESOLVED
+IT,Information Technology,Medium,MEDIUM,Resolved,RESOLVED
+Finance,Finance,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,Critical,CRITICAL,In Progress,WORKING
+HR,Human Resources,Low,LOW,Open,NEW
+Finance,Finance,High,HIGH,Open,NEW
+HR,Human Resources,Medium,MEDIUM,Open,NEW
+Finance,Finance,Low,LOW,In Progress,WORKING
+IT,Information Technology,High,HIGH,Closed,CLOSED
+Sales,Sales,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,Low,LOW,In Progress,WORKING
+Procurement,Procurement,Medium,MEDIUM,Resolved,RESOLVED
+Finance,Finance,High,HIGH,Resolved,RESOLVED
+HR,Human Resources,Medium,MEDIUM,Open,NEW
+IT,Information Technology,Low,LOW,Resolved,RESOLVED
+Sales,Sales,Medium,MEDIUM,Resolved,RESOLVED
+Procurement,Procurement,Medium,MEDIUM,Open,NEW
+Sales,Sales,High,HIGH,Open,NEW
+IT,Information Technology,Critical,CRITICAL,Resolved,RESOLVED
+HR,Human Resources,Medium,MEDIUM,In Progress,WORKING
+Sales,Sales,Medium,MEDIUM,Open,NEW
+Sales,Sales,Critical,CRITICAL,Resolved,RESOLVED
+Procurement,Procurement,Low,LOW,In Progress,WORKING
+Operations,Operations,High,HIGH,Closed,CLOSED
+Procurement,Procurement,Medium,MEDIUM,Open,NEW
+HR,Human Resources,Low,LOW,Resolved,RESOLVED
+Procurement,Procurement,Medium,MEDIUM,Closed,CLOSED
+Sales,Sales,High,HIGH,In Progress,WORKING
+Operations,Operations,Low,LOW,Open,NEW
+Procurement,Procurement,Low,LOW,Resolved,RESOLVED
+Procurement,Procurement,High,HIGH,Open,NEW
+IT,Information Technology,High,HIGH,Open,NEW
+Sales,Sales,High,HIGH,Closed,CLOSED
+Procurement,Procurement,High,HIGH,Resolved,RESOLVED
+Operations,Operations,High,HIGH,In Progress,WORKING
+Sales,Sales,Critical,CRITICAL,Closed,CLOSED
+HR,Human Resources,Critical,CRITICAL,Resolved,RESOLVED
+Procurement,Procurement,Medium,MEDIUM,Resolved,RESOLVED
+Operations,Operations,Medium,MEDIUM,Open,NEW
+Operations,Operations,High,HIGH,Open,NEW
+IT,Information Technology,Low,LOW,Open,NEW
+HR,Human Resources,Low,LOW,In Progress,WORKING
+Sales,Sales,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,Medium,MEDIUM,Closed,CLOSED
+HR,Human Resources,High,HIGH,Closed,CLOSED
+HR,Human Resources,Low,LOW,Open,NEW
+Procurement,Procurement,Low,LOW,Open,NEW
+Procurement,Procurement,High,HIGH,Resolved,RESOLVED
+Finance,Finance,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,Low,LOW,Open,NEW
+Operations,Operations,High,HIGH,Closed,CLOSED
+IT,Information Technology,High,HIGH,In Progress,WORKING
+Finance,Finance,High,HIGH,Resolved,RESOLVED
+IT,Information Technology,Medium,MEDIUM,Open,NEW
+Sales,Sales,Critical,CRITICAL,In Progress,WORKING
+HR,Human Resources,Low,LOW,Open,NEW
+Procurement,Procurement,Critical,CRITICAL,Closed,CLOSED
+Procurement,Procurement,High,HIGH,Resolved,RESOLVED
+HR,Human Resources,High,HIGH,Closed,CLOSED
+Procurement,Procurement,Low,LOW,In Progress,WORKING
+IT,Information Technology,Low,LOW,Open,NEW
+Procurement,Procurement,Low,LOW,Open,NEW
+Sales,Sales,Critical,CRITICAL,Open,NEW
+HR,Human Resources,Low,LOW,In Progress,WORKING
+Operations,Operations,Medium,MEDIUM,Resolved,RESOLVED
+Sales,Sales,High,HIGH,Resolved,RESOLVED
+IT,Information Technology,High,HIGH,In Progress,WORKING
+Operations,Operations,Low,LOW,Resolved,RESOLVED
+HR,Human Resources,Critical,CRITICAL,Resolved,RESOLVED
+IT,Information Technology,Medium,MEDIUM,Closed,CLOSED
+Operations,Operations,Low,LOW,In Progress,WORKING
+Operations,Operations,Low,LOW,In Progress,WORKING
+Sales,Sales,Low,LOW,Closed,CLOSED
+Finance,Finance,High,HIGH,In Progress,WORKING
+Sales,Sales,Critical,CRITICAL,In Progress,WORKING
+HR,Human Resources,Critical,CRITICAL,Resolved,RESOLVED
+Finance,Finance,Critical,CRITICAL,Resolved,RESOLVED
+HR,Human Resources,Critical,CRITICAL,Closed,CLOSED
+Sales,Sales,Critical,CRITICAL,In Progress,WORKING
+Procurement,Procurement,Medium,MEDIUM,In Progress,WORKING
+HR,Human Resources,Low,LOW,Resolved,RESOLVED
+HR,Human Resources,Low,LOW,Resolved,RESOLVED
+IT,Information Technology,High,HIGH,Open,NEW
+IT,Information Technology,Medium,MEDIUM,Resolved,RESOLVED
+Procurement,Procurement,Medium,MEDIUM,Resolved,RESOLVED
+Procurement,Procurement,Low,LOW,Resolved,RESOLVED
+IT,Information Technology,Medium,MEDIUM,Closed,CLOSED
+Finance,Finance,High,HIGH,Open,NEW
+Procurement,Procurement,Critical,CRITICAL,Closed,CLOSED
+Sales,Sales,Critical,CRITICAL,Resolved,RESOLVED
+Sales,Sales,High,HIGH,Closed,CLOSED
+Procurement,Procurement,High,HIGH,In Progress,WORKING
+HR,Human Resources,Medium,MEDIUM,Resolved,RESOLVED
+Finance,Finance,Medium,MEDIUM,In Progress,WORKING
+Operations,Operations,Low,LOW,Resolved,RESOLVED
+Procurement,Procurement,Low,LOW,Closed,CLOSED
+IT,Information Technology,High,HIGH,Closed,CLOSED
+Sales,Sales,Low,LOW,Open,NEW
+Finance,Finance,Medium,MEDIUM,Resolved,RESOLVED
+IT,Information Technology,High,HIGH,Resolved,RESOLVED
+HR,Human Resources,Medium,MEDIUM,Closed,CLOSED
+HR,Human Resources,Critical,CRITICAL,Closed,CLOSED
+IT,Information Technology,Critical,CRITICAL,Open,NEW
+Procurement,Procurement,Critical,CRITICAL,In Progress,WORKING
+Operations,Operations,Low,LOW,In Progress,WORKING
+Procurement,Procurement,High,HIGH,In Progress,WORKING
+Procurement,Procurement,Critical,CRITICAL,In Progress,WORKING
+Sales,Sales,Critical,CRITICAL,Closed,CLOSED
+Sales,Sales,Critical,CRITICAL,Resolved,RESOLVED
+HR,Human Resources,Low,LOW,Open,NEW
+IT,Information Technology,Medium,MEDIUM,Open,NEW
+Procurement,Procurement,Low,LOW,Open,NEW
+IT,Information Technology,Low,LOW,Resolved,RESOLVED
+HR,Human Resources,Low,LOW,Open,NEW
+HR,Human Resources,Medium,MEDIUM,In Progress,WORKING
+Finance,Finance,High,HIGH,Open,NEW
+IT,Information Technology,Critical,CRITICAL,In Progress,WORKING
+HR,Human Resources,Critical,CRITICAL,Open,NEW
+Finance,Finance,High,HIGH,Open,NEW
+Operations,Operations,Low,LOW,Resolved,RESOLVED
+Operations,Operations,High,HIGH,In Progress,WORKING
+Finance,Finance,Medium,MEDIUM,Resolved,RESOLVED
+IT,Information Technology,Medium,MEDIUM,Resolved,RESOLVED
+Procurement,Procurement,High,HIGH,Resolved,RESOLVED
+Operations,Operations,Medium,MEDIUM,Closed,CLOSED
+Finance,Finance,Medium,MEDIUM,Resolved,RESOLVED
+Finance,Finance,Critical,CRITICAL,Closed,CLOSED
+HR,Human Resources,Low,LOW,Closed,CLOSED
+Operations,Operations,High,HIGH,Resolved,RESOLVED
+Sales,Sales,High,HIGH,Resolved,RESOLVED
+IT,Information Technology,Low,LOW,Closed,CLOSED
+Operations,Operations,Critical,CRITICAL,Resolved,RESOLVED
+HR,Human Resources,High,HIGH,In Progress,WORKING
+Sales,Sales,Low,LOW,Closed,CLOSED
+HR,Human Resources,Critical,CRITICAL,In Progress,WORKING
+Procurement,Procurement,High,HIGH,Open,NEW
+Sales,Sales,High,HIGH,In Progress,WORKING
+IT,Information Technology,High,HIGH,Open,NEW
+Sales,Sales,High,HIGH,Resolved,RESOLVED
+Operations,Operations,Medium,MEDIUM,Open,NEW
+Operations,Operations,Low,LOW,Resolved,RESOLVED
+HR,Human Resources,Medium,MEDIUM,Open,NEW
+Sales,Sales,High,HIGH,In Progress,WORKING
+Procurement,Procurement,High,HIGH,Open,NEW
+Finance,Finance,Low,LOW,In Progress,WORKING
+Procurement,Procurement,Critical,CRITICAL,In Progress,WORKING
+HR,Human Resources,Critical,CRITICAL,Closed,CLOSED
+Operations,Operations,Medium,MEDIUM,Open,NEW
+IT,Information Technology,Low,LOW,Resolved,RESOLVED
+Procurement,Procurement,Low,LOW,Closed,CLOSED
+IT,Information Technology,Critical,CRITICAL,Resolved,RESOLVED
+Finance,Finance,High,HIGH,Closed,CLOSED
+IT,Information Technology,High,HIGH,In Progress,WORKING
+Operations,Operations,High,HIGH,Resolved,RESOLVED
+Finance,Finance,High,HIGH,Open,NEW
+Procurement,Procurement,High,HIGH,In Progress,WORKING
+IT,Information Technology,High,HIGH,In Progress,WORKING
+Sales,Sales,Medium,MEDIUM,Resolved,RESOLVED
+Finance,Finance,Critical,CRITICAL,Resolved,RESOLVED
+Operations,Operations,Critical,CRITICAL,In Progress,WORKING
+Operations,Operations,Medium,MEDIUM,Resolved,RESOLVED
+Sales,Sales,Critical,CRITICAL,Open,NEW
+IT,Information Technology,High,HIGH,In Progress,WORKING
+Finance,Finance,Low,LOW,Closed,CLOSED
+HR,Human Resources,Critical,CRITICAL,Closed,CLOSED
+Finance,Finance,High,HIGH,Closed,CLOSED
+Finance,Finance,Low,LOW,Open,NEW
+Sales,Sales,Low,LOW,Closed,CLOSED
+HR,Human Resources,Medium,MEDIUM,In Progress,WORKING
+Procurement,Procurement,Medium,MEDIUM,Open,NEW
+Operations,Operations,Critical,CRITICAL,Open,NEW
+Sales,Sales,High,HIGH,Open,NEW
+Finance,Finance,Medium,MEDIUM,Resolved,RESOLVED
+HR,Human Resources,Low,LOW,Open,NEW
+Finance,Finance,Low,LOW,In Progress,WORKING
+HR,Human Resources,Low,LOW,Closed,CLOSED
+Sales,Sales,Low,LOW,Resolved,RESOLVED
+Procurement,Procurement,Critical,CRITICAL,Open,NEW
+Finance,Finance,Critical,CRITICAL,Closed,CLOSED
+Finance,Finance,Medium,MEDIUM,Open,NEW
+Procurement,Procurement,Critical,CRITICAL,Closed,CLOSED
+Procurement,Procurement,Low,LOW,In Progress,WORKING
+Procurement,Procurement,High,HIGH,In Progress,WORKING
+Sales,Sales,Medium,MEDIUM,Closed,CLOSED
+Sales,Sales,Critical,CRITICAL,Closed,CLOSED
+IT,Information Technology,High,HIGH,Open,NEW
+Operations,Operations,High,HIGH,In Progress,WORKING
+Procurement,Procurement,High,HIGH,Open,NEW
+Sales,Sales,High,HIGH,In Progress,WORKING
+Sales,Sales,Critical,CRITICAL,In Progress,WORKING
+IT,Information Technology,High,HIGH,Open,NEW
+Operations,Operations,Medium,MEDIUM,Closed,CLOSED
+Operations,Operations,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,Critical,CRITICAL,Open,NEW
+Finance,Finance,Medium,MEDIUM,Closed,CLOSED
+IT,Information Technology,High,HIGH,Closed,CLOSED
+Finance,Finance,High,HIGH,Resolved,RESOLVED
+Sales,Sales,Low,LOW,Resolved,RESOLVED
+Finance,Finance,Low,LOW,Resolved,RESOLVED
+Procurement,Procurement,Critical,CRITICAL,In Progress,WORKING
+Finance,Finance,Medium,MEDIUM,Open,NEW
+Operations,Operations,Medium,MEDIUM,Resolved,RESOLVED
+Finance,Finance,Medium,MEDIUM,Resolved,RESOLVED
+Operations,Operations,Critical,CRITICAL,Open,NEW
+Finance,Finance,Low,LOW,Open,NEW
+Procurement,Procurement,Critical,CRITICAL,Open,NEW
+HR,Human Resources,Medium,MEDIUM,Resolved,RESOLVED
+Finance,Finance,Medium,MEDIUM,Open,NEW
+Sales,Sales,Low,LOW,Open,NEW
+IT,Information Technology,Critical,CRITICAL,In Progress,WORKING
+Procurement,Procurement,High,HIGH,Closed,CLOSED
+Sales,Sales,Medium,MEDIUM,Resolved,RESOLVED
+Sales,Sales,Medium,MEDIUM,Open,NEW
+IT,Information Technology,Low,LOW,Open,NEW
+HR,Human Resources,Low,LOW,Resolved,RESOLVED
+HR,Human Resources,High,HIGH,Closed,CLOSED
+Sales,Sales,High,HIGH,In Progress,WORKING
+Operations,Operations,Medium,MEDIUM,Closed,CLOSED
+IT,Information Technology,Critical,CRITICAL,Closed,CLOSED
+HR,Human Resources,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,Critical,CRITICAL,In Progress,WORKING
+IT,Information Technology,Low,LOW,Resolved,RESOLVED
+HR,Human Resources,Medium,MEDIUM,In Progress,WORKING
+Procurement,Procurement,Low,LOW,Open,NEW
+HR,Human Resources,Critical,CRITICAL,In Progress,WORKING
+Operations,Operations,Critical,CRITICAL,Closed,CLOSED
+Operations,Operations,Critical,CRITICAL,In Progress,WORKING
+Finance,Finance,High,HIGH,Resolved,RESOLVED
+Procurement,Procurement,Critical,CRITICAL,Closed,CLOSED
+IT,Information Technology,Medium,MEDIUM,Resolved,RESOLVED
+IT,Information Technology,Low,LOW,Resolved,RESOLVED
+Operations,Operations,Medium,MEDIUM,In Progress,WORKING
+HR,Human Resources,Low,LOW,In Progress,WORKING
+Sales,Sales,High,HIGH,Closed,CLOSED
+Sales,Sales,Critical,CRITICAL,Closed,CLOSED
+Finance,Finance,Medium,MEDIUM,Closed,CLOSED
+Finance,Finance,Critical,CRITICAL,Closed,CLOSED
+IT,Information Technology,Critical,CRITICAL,Closed,CLOSED
+Operations,Operations,High,HIGH,Open,NEW
+Finance,Finance,Medium,MEDIUM,Open,NEW
+IT,Information Technology,Medium,MEDIUM,Resolved,RESOLVED
+HR,Human Resources,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,High,HIGH,Resolved,RESOLVED
+Sales,Sales,High,HIGH,Closed,CLOSED
+IT,Information Technology,Critical,CRITICAL,In Progress,WORKING
+Procurement,Procurement,Low,LOW,Resolved,RESOLVED
+Finance,Finance,Medium,MEDIUM,Closed,CLOSED
+Sales,Sales,Critical,CRITICAL,Open,NEW
+Finance,Finance,Critical,CRITICAL,Closed,CLOSED
+HR,Human Resources,Critical,CRITICAL,Open,NEW
+Operations,Operations,Low,LOW,In Progress,WORKING
+Procurement,Procurement,High,HIGH,Resolved,RESOLVED
+IT,Information Technology,Critical,CRITICAL,In Progress,WORKING
+Sales,Sales,High,HIGH,Closed,CLOSED
+Finance,Finance,High,HIGH,In Progress,WORKING
+Finance,Finance,High,HIGH,Resolved,RESOLVED
+Procurement,Procurement,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,Low,LOW,Resolved,RESOLVED
+Finance,Finance,Low,LOW,In Progress,WORKING
+Finance,Finance,Medium,MEDIUM,In Progress,WORKING
+HR,Human Resources,Critical,CRITICAL,Resolved,RESOLVED
+HR,Human Resources,Medium,MEDIUM,In Progress,WORKING
+IT,Information Technology,Low,LOW,Closed,CLOSED
+IT,Information Technology,Medium,MEDIUM,In Progress,WORKING
+Operations,Operations,Critical,CRITICAL,In Progress,WORKING
+Finance,Finance,Low,LOW,Resolved,RESOLVED
+Sales,Sales,Medium,MEDIUM,Open,NEW
+IT,Information Technology,Critical,CRITICAL,Resolved,RESOLVED
+HR,Human Resources,Medium,MEDIUM,Resolved,RESOLVED
+IT,Information Technology,Critical,CRITICAL,Resolved,RESOLVED
+Operations,Operations,Low,LOW,In Progress,WORKING
+Finance,Finance,Critical,CRITICAL,Resolved,RESOLVED
+Sales,Sales,Critical,CRITICAL,In Progress,WORKING
+HR,Human Resources,High,HIGH,Open,NEW
+Finance,Finance,High,HIGH,Closed,CLOSED
+IT,Information Technology,Critical,CRITICAL,Closed,CLOSED
+HR,Human Resources,Low,LOW,In Progress,WORKING
+IT,Information Technology,High,HIGH,Resolved,RESOLVED
+Operations,Operations,High,HIGH,In Progress,WORKING
+Finance,Finance,Critical,CRITICAL,Open,NEW
+IT,Information Technology,Critical,CRITICAL,Closed,CLOSED
+Sales,Sales,Low,LOW,Open,NEW
+IT,Information Technology,Critical,CRITICAL,Open,NEW
+HR,Human Resources,Critical,CRITICAL,Closed,CLOSED
+HR,Human Resources,Low,LOW,Closed,CLOSED
+Finance,Finance,Low,LOW,Open,NEW
+Procurement,Procurement,Medium,MEDIUM,Resolved,RESOLVED
+Procurement,Procurement,Low,LOW,Closed,CLOSED
+HR,Human Resources,High,HIGH,Resolved,RESOLVED
+Operations,Operations,Medium,MEDIUM,Open,NEW
+Finance,Finance,Low,LOW,Closed,CLOSED
+HR,Human Resources,High,HIGH,In Progress,WORKING
+Finance,Finance,High,HIGH,In Progress,WORKING
+Operations,Operations,Critical,CRITICAL,Resolved,RESOLVED
+Procurement,Procurement,Low,LOW,Open,NEW
+IT,Information Technology,Medium,MEDIUM,Open,NEW
+Finance,Finance,High,HIGH,Open,NEW
+IT,Information Technology,Critical,CRITICAL,In Progress,WORKING
+Finance,Finance,High,HIGH,In Progress,WORKING
+Sales,Sales,Low,LOW,Resolved,RESOLVED
+Procurement,Procurement,Medium,MEDIUM,Closed,CLOSED
+IT,Information Technology,Low,LOW,Resolved,RESOLVED
+Operations,Operations,Critical,CRITICAL,Closed,CLOSED
+Sales,Sales,Critical,CRITICAL,Closed,CLOSED
+Operations,Operations,Medium,MEDIUM,Closed,CLOSED
+HR,Human Resources,Critical,CRITICAL,Closed,CLOSED
+Finance,Finance,High,HIGH,In Progress,WORKING
+IT,Information Technology,High,HIGH,In Progress,WORKING
+Finance,Finance,Medium,MEDIUM,Closed,CLOSED

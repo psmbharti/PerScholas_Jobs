@@ -1,0 +1,18 @@
+Column Name,Data Type,Missing Count,Unique Count
+Ticket Number,object,0,500
+Employee ID,object,15,101
+Employee Name,object,0,497
+Department,object,0,10
+Location,object,0,5
+Country,object,0,3
+Priority,object,0,7
+Status,object,0,4
+Category,object,0,4
+Subcategory,object,0,4
+Assignment Group,object,0,8
+System,object,0,4
+Vendor,object,0,4
+Created Date,object,0,277
+Closed Date,object,0,275
+Resolution Code,object,0,5
+Comments,object,0,500
